@@ -1,0 +1,2355 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikibooks</sitename>
+    <dbname>enwikibooks</dbname>
+    <base>http://en.wikibooks.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.25wmf20</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikibooks</namespace>
+      <namespace key="5" case="first-letter">Wikibooks talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="102" case="first-letter">Cookbook</namespace>
+      <namespace key="103" case="first-letter">Cookbook talk</namespace>
+      <namespace key="108" case="first-letter">Transwiki</namespace>
+      <namespace key="109" case="first-letter">Transwiki talk</namespace>
+      <namespace key="110" case="first-letter">Wikijunior</namespace>
+      <namespace key="111" case="first-letter">Wikijunior talk</namespace>
+      <namespace key="112" case="first-letter">Subject</namespace>
+      <namespace key="113" case="first-letter">Subject talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>2497805</id>
+      <parentid>2373587</parentid>
+      <timestamp>2013-03-06T15:30:54Z</timestamp>
+      <contributor>
+        <username>Pi zero</username>
+        <id>75960</id>
+      </contributor>
+      <comment>seems more appropriate</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;width:100%; margin:0px; padding:0px 5px 5px 5px;&quot;&gt;
+&lt;div style=&quot;clear:both; text-align:center; font-size:95%; margin:0em 1em 0em 1em;&quot;&gt;
+&lt;div id=&quot;mf-overview&quot;&gt;[[Wikibooks:Welcome|Overview]] •&lt;/div&gt;
+[[Using Wikibooks]] •
+[[Wikibooks:Reading room|Questions]] •
+[[Help:Contents|Help]] •
+[[Wikibooks:Card Catalog Office|Browse]]
+&lt;/div&gt;
+&lt;div style=&quot;width:50%; float:right; font-size:95%;&quot;&gt;
+&lt;div style=&quot;float:right; width:30%;&quot;&gt;
+* [[Subject:Science|Science]]
+* [[Subject:Social sciences|Social sciences]]
+* '''[[Subject:Books by subject|All subjects]]'''
+&lt;/div&gt;
+&lt;div style=&quot;float:right; width:30%;&quot;&gt;
+* [[Subject:Languages|Languages]]
+* [[Subject:Mathematics|Mathematics]]
+* [[Subject:Miscellaneous|Miscellaneous]]
+&lt;/div&gt;
+&lt;div style=&quot;float:right; width:30%;&quot;&gt;
+* [[Subject:Computing|Computing]]
+* [[Subject:Engineering|Engineering]]
+* [[Subject:Humanities|Humanities]]
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;width:40%; text-align:center;&quot;&gt;
+&lt;div style=&quot;font-size:162%; padding:0.1em;&quot;&gt;[[Wikibooks:Welcome|Welcome]] to [[Wikibooks:What is Wikibooks|Wikibooks]],&lt;/div&gt;
+&lt;div style=&quot;font-size:95%; margin-top:0.2em;&quot;&gt;the open-content textbooks collection that [[Help:Contributing|anyone can edit]].&lt;/div&gt;
+&lt;div id=&quot;pagecount&quot; style=&quot;font-size:85%;&quot;&gt;[[Subject:Books by subject|{{formatnum:{{NUMBEROFBOOKS}}}} books]] with [[Special:Allpages|{{NUMBEROFARTICLES}} pages]]&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;clear:both; margin:25px 0px 0px 0px; padding:0px;&quot;&gt;
+{| id=&quot;mp-content&quot; style=&quot;width:100%; border-spacing:10px 0px;&quot;
+ | style=&quot;width:33%; padding:10px; vertical-align:top; background-color:#ddddff;&quot; | {{:Main Page/Featured}}
+ | style=&quot;width:33%; padding:10px; vertical-align:top; background-color:#ddddff;&quot; | {{:Main Page/Wikijunior}}
+ | style=&quot;width:33%; padding:10px; vertical-align:top; background-color:#ddddff;&quot; | {{:Main Page/Recipe}}
+ |}
+&lt;/div&gt;
+&lt;/div&gt;
+
+{{:Main Page/Sisters}}
+
+[[Category:Main page| ]]</text>
+      <sha1>ls63cb69di8i31p5qikhx6xxot5jcfw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Toby Bartels</title>
+    <ns>2</ns>
+    <id>3</id>
+    <revision>
+      <id>2010226</id>
+      <parentid>1312964</parentid>
+      <timestamp>2010-12-30T23:13:58Z</timestamp>
+      <contributor>
+        <username>Toby Bartels</username>
+        <id>4</id>
+      </contributor>
+      <minor />
+      <comment>Fix URI.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">I'm [http://tobybartels.name/ Toby Bartels].</text>
+      <sha1>0gkpggijneqw3uo8wpegsp3syggw049</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Schewek</title>
+    <ns>2</ns>
+    <id>4</id>
+    <revision>
+      <id>1747578</id>
+      <parentid>152202</parentid>
+      <timestamp>2010-03-31T02:54:23Z</timestamp>
+      <contributor>
+        <username>Schewek</username>
+        <id>5</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">My interests here at the Textbook-Wiki are in the natural sciences.
+
+I made my prior wiki-experiences mainly as [http://de.wikipedia.org/wiki/Benutzer:Schewek Schewek at the German language Wikipedia].</text>
+      <sha1>4dskrnzouas0ypazmfcx6vw7xg5v1zl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Cover</title>
+    <ns>0</ns>
+    <id>5</id>
+    <revision>
+      <id>2247133</id>
+      <parentid>2247132</parentid>
+      <timestamp>2012-01-06T07:39:33Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;center&gt;Welcome to the world's foremost open content&lt;br&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;'''Organic Chemistry Textbook'''&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;br&gt;on the web!&lt;/center&gt;
+
+{| cellpadding=&quot;5&quot;
+|-
+| &lt;noinclude&gt;&lt;big&gt;'''[[Organic Chemistry|Go&amp;nbsp;to&amp;nbsp;contents&amp;nbsp;&gt;&gt;]]'''&lt;/big&gt; &lt;/noinclude&gt;
+| [[Image:Ethane3D.png]]
+| This '''free''' online text is intended to become a ''complete replacement'' for your printed book.
+|}
+
+== The Study of Organic Chemistry ==
+Organic chemistry is primarily devoted to the unique properties of the carbon atom and its compounds.  These compounds play a critical role in biology and ecology, Earth sciences and geology, physics, industry, medicine and &amp;mdash; of course &amp;mdash; chemistry.  At first glance, the new material that organic chemistry brings to the table may seem complicated and daunting, but all it takes is concentration and perseverance.  Millions of students before you have successfully passed this course and you can too!
+
+This field of chemistry is based less on formulas and more on reactions between various molecules under different conditions. Whereas a typical general chemistry question may ask a student to compute an answer with an equation from the chapter that they memorized, a more typical organic chemistry question is along the lines of &quot;what product will form when substance X is treated with solution Y and bombarded by light&quot;. The key to learning organic chemistry is to ''understand'' it rather than cram it in the night before a test.  It is all well and good to memorize the mechanism of Michael addition, but a superior accomplishment would be the ability to explain ''why'' such a reaction would take place.
+
+As in all things, it is easier to build up a body of new knowledge on a foundation of solid prior knowledge.  Students will be well served by much of the knowledge brought to this subject from the subject of [[General Chemistry]].  Concepts with particular importance to organic chemists are covalent bonding, Molecular Orbit theory, VSEPR Modeling, understanding acid/base chemistry vis-a-vis pKa values, and even trends of the periodic table.  This is by no means a comprehensive list of the knowledge you should have gained already in order to fully understand the subject of organic chemistry, but it should give you some idea of the things you need to know to succeed in an organic chemistry test or course.
+
+Organic Chemistry is one of the subjects which are varying useful and close to our daily life. We always try to figure out some of the unknown mysteries of our daily life through our factious  thinking habit, which generates superstitions. Through the help of chemistry we can help ourselves to get out of this kind of superstition.							
+We always try to find the ultimate truth through our own convenience. In the ancient past we had struggled to make things to go as per our need. In that context we have found fire, house, food, transportation, etc…
+
+Now the burning question is: &quot;how can chemistry help our daily life?&quot;  To find the answer of this questions, we have to know the subject thoroughly.  Let us start it from now.
+
+{{BookCat}}</text>
+      <sha1>iqg0y77ledcchyilr4y5k95bnmhfbma</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry</title>
+    <ns>0</ns>
+    <id>7</id>
+    <revision>
+      <id>1925731</id>
+      <parentid>1925728</parentid>
+      <timestamp>2010-09-02T06:08:27Z</timestamp>
+      <contributor>
+        <username>Jomegat</username>
+        <id>12605</id>
+      </contributor>
+      <minor />
+      <comment>Reverted edits by [[Special:Contributions/119.152.89.121|119.152.89.121]] ([[User talk:119.152.89.121|talk]]) to last revision by [[User:Whiteknight|Whiteknight]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">The purpose of this section is to review topics from freshman [[General Chemistry|chemistry]] and build the foundation for further studies in organic chemistry.
+
+#[[Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry|History of organic chemistry]] {{stage short|100%|Jan 12, 2005}}
+#[[Organic chemistry/Foundational concepts of organic chemistry/Atomic structure|Atomic structure]] {{stage short|100%|Jan 12, 2005}}
+#[[Organic Chemistry/Foundational concepts of organic chemistry/Electronegativity|Electronegativity]] {{stage short|100%|April 28, 2006}}
+#[[Organic Chemistry/Foundational concepts of organic chemistry/Bonding|Bonding]] {{stage short|100%|April 28, 2006}}
+#[[Organic Chemistry/Foundational concepts of organic chemistry/Electron dot structures|Electron dot structures]] {{stage short|100%|April 28, 2006}}
+#[[Organic Chemistry/Foundational concepts of organic chemistry/Visualization|Visualization]]{{stage short|75%|November 12, 2006}}
+#[[Organic Chemistry/Foundational concepts of organic chemistry/Resonance|Resonance]] {{stage short|100%|April 28, 2006}}
+#[[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases|Acids and bases]] {{stage short|100%|April 28, 2006}}
+#[[Organic_Chemistry/Foundational_concepts_of_organic_chemistry/Nomenclature|Nomenclature]] {{stage short|100%|Nov 25, 2006}}
+
+----
+[[Image:Go To Organic Chemistry Contents .png]] | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>13uxf6qw4x9wgkeiv8rva3vy3ftz8x9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Introduction to reactions</title>
+    <ns>0</ns>
+    <id>9</id>
+    <revision>
+      <id>2596377</id>
+      <parentid>2596255</parentid>
+      <timestamp>2013-12-27T00:35:15Z</timestamp>
+      <contributor>
+        <username>Gadfium</username>
+        <id>10190</id>
+      </contributor>
+      <comment>rv, unexplained deletion of content.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Image:Go To Organic Chemistry Contents .png]] &gt; Introduction to reactions
+----
+
+
+
+==Specific Reactions==
+#[[Organic Chemistry/Introduction to reactions/Polar and radical reactions|Polar and radical reactions]] {{stage short|100%|Jan 12, 2005}}
+#[[Organic Chemistry/Introduction to reactions/Redox reactions|Redox reactions]] {{stage short|75%|Jan 12, 2005}}
+#[[Organic Chemistry/Introduction to reactions/Carbocations|Carbocations]]{{stage short|50%|Jan 29, 2005}}
+#[[Organic Chemistry/Introduction to reactions/Hydroboration/oxidation|Hydroboration/oxidation]]
+#[[Organic Chemistry/Introduction to reactions/Free-radical_halogenation|Free-radical halogenation]] {{stage short|50%|Jan 12, 2005}}
+#[[Organic Chemistry/Introduction to reactions/Rearrangement reactions|Rearrangement reactions]]
+#[[Organic Chemistry/Introduction to reactions/Pericyclic reactions|Pericyclic reactions]]
+#[[Organic Chemistry/Introduction to reactions/Diels-Alder reaction|Diels-Alder reaction]]
+
+----
+
+
+{{BookCat}}</text>
+      <sha1>o77umgv0lzcfiser6mqjuxm3w9hcw2e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Alkenes</title>
+    <ns>0</ns>
+    <id>10</id>
+    <revision>
+      <id>2718515</id>
+      <parentid>2586844</parentid>
+      <timestamp>2014-10-27T07:31:51Z</timestamp>
+      <contributor>
+        <ip>213.55.79.192</ip>
+      </contributor>
+      <comment>/* Preparation */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Organic Chemistry/Haloalkanes|&lt;&lt; Haloalkanes]] |'''Alkenes'''| [[Organic Chemistry/Alkynes|Alkynes &gt;&gt;]]
+
+Alkenes are [[Organic Chemistry/Glossary#A|aliphatic]] [[Organic Chemistry/Glossary#H|hydrocarbons]] containing carbon-carbon double bonds and general formula C&lt;sub&gt;n&lt;/sub&gt;H&lt;sub&gt;2n&lt;/sub&gt;.
+
+=Naming Alkenes=
+Alkenes are named as if they were alkanes, but the &quot;-ane&quot; suffix is changed to &quot;-ene&quot;.  If the alkene contains only one double bond and that double bond is terminal (the double bond is at one end of the molecule or another) then it is not necessary to place any number in front of the name.
+
+&lt;blockquote&gt;
+'''butane:''' C&lt;sub&gt;4&lt;/sub&gt;H&lt;sub&gt;10&lt;/sub&gt; (CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;3&lt;/sub&gt;)&lt;br&gt;
+'''butene:''' C&lt;sub&gt;4&lt;/sub&gt;H&lt;sub&gt;8&lt;/sub&gt; (CH&lt;sub&gt;2&lt;/sub&gt;=CHCH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;3&lt;/sub&gt;)
+&lt;/blockquote&gt;
+
+
+If the double bond is not terminal (if it is on a carbon somewhere in the center of the chain) then the carbons should be numbered in such a way as to give the first of the two double-bonded carbons the lowest possible number, and that number should precede the &quot;ene&quot; suffix with a dash, as shown below.
+
+&lt;blockquote&gt;
+'''correct:''' pent-2-ene (CH&lt;sub&gt;3&lt;/sub&gt;CH=CHCH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;3&lt;/sub&gt;)&lt;br&gt;
+'''incorrect:''' pent-3-ene (CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;CH=CHCH&lt;sub&gt;3&lt;/sub&gt;)&lt;br&gt;
+''The second one is incorrect because flipping the formula horizontally results in a lower number for the alkene.''
+&lt;/blockquote&gt;
+
+
+If there is more than one double bond in an alkene, all of the bonds should be numbered in the name of the molecule - even terminal double bonds.  The numbers should go from lowest to highest, and be separated from one another by a comma. The IUPAC numerical prefixes are used to indicate the number of double bonds.
+
+&lt;blockquote&gt;
+'''octa-2,4-diene:''' CH&lt;sub&gt;3&lt;/sub&gt;CH=CHCH=CHCH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;3&lt;/sub&gt;&lt;br&gt;
+'''deca-1,5-diene:''' CH&lt;sub&gt;2&lt;/sub&gt;=CHCH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;CH=CHCH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;3&lt;/sub&gt;
+&lt;/blockquote&gt;
+
+
+Note that the numbering of &quot;2-4&quot; above yields a molecule with two double bonds separated by just one single bond.  Double bonds in such a condition are called &quot;conjugated&quot;, and they represent an enhanced stability of conformation, so they are energetically favored as reactants in many situations and combinations.
+
+==EZ Notation==
+
+Earlier in stereochemistry, we discussed cis/trans notation where cis- means same side and trans- means opposite side. Alkenes can present a unique problem, however in that the cis/trans notation sometimes breaks down. The first thing to keep in mind is that alkenes are planar and there's no rotation of the bonds, as we'll discuss later. So when a substituent is on one side of the double-bond, it stays on that side.
+
+[[Image:EZNotation3.png|thumb|400px|center|cis-but-2-ene and trans-but-2-ene]]
+
+The above example is pretty straight-forward. On the left, we have two methyl groups on the same side, so it's cis-but-2-ene. And on the right, we have them on opposite sides, so we have trans-but-2-ene. So in this situation, the cis/trans notation works and, in fact, these are the correct names.
+
+[[Image:EZNotation5.png|thumb|759px|center|(E)-3-methylpent-2-ene and (Z)-3-methylpent-2-ene]]
+
+From the example above, how would you use cis and trans? Which is the same side and which is the opposite side? Whenever an alkene has 3 or 4 differing substituents, one must use the what's called the EZ nomenclature, coming from the German words, Entgegen (opposite) and Zusammen (same).
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+
+'''E''': Entgegen, opposite sides of double bond&lt;br&gt;
+'''Z''': Zusammen, same sides (zame zides) of double bond
+|}
+
+Let's begin with (Z)-3-methylpent-2-ene. We begin by dividing our alkene into left and right halves. On each side, we assign a substituent as being either a high priority or low priority substituent. The priority is based on the atomic number of the substituents. So on the left side, hydrogen is the lowest priority because its atomic number is 1 and carbon is higher because its atomic number is 6.
+
+On the right side, we have carbon substituents on both the top and bottom, so we go out to the next bond. On to the top, there's another carbon, but on the bottom, a hydrogen. So the top gets high priority and the bottom gets low priority.
+
+Because the high priorities from both sides are on the same side, they are Zusammen (as a mnemonic, think 'Zame Zide').
+
+Now let's look at (E)-3-methylpent-2-ene. On the left, we have the same substituents on the same sides, so the priorities are the same as in the Zusammen version. However, the substituents are reversed on the right side with the high priority substituent on the bottom and the low priority substituent on the top. Because the High and Low priorities are opposite on the left and right, these are Entgegen, or opposite.
+
+The system takes a little getting used to and it's usually easier to name an alkene than it is to write one out given its name. But with a little practice, you'll find that it's quite easy.
+
+===Comparison of E-Z with cis-trans===
+
+{| BORDER
+|-
+|
+ ||
+|-
+| (Z)-but-2-ene || (E)-but-2-ene
+|-
+|[[Image:Cis-2-butene.PNG]]||[[Image:Trans-2-butene.PNG]]
+|-
+| cis-but-2-ene || trans-but-2-ene
+|}
+
+To a certain extent, the Z configuration can be regarded as the ''cis-'' isomer and the E as the ''trans-'' isomers. This correspondence is exact only if the two carbon atoms are identically substituted.
+
+In general, cis-trans should only be used if each double-bonded carbon atom has a hydrogen atom (i.e. R-CH=CH-R').
+
+[http://goldbook.iupac.org/C01093.html IUPAC Gold book on cis-trans notation.]
+
+[http://goldbook.iupac.org/E01882.html IUPAC Gold book on E-Z notation.]
+
+=Properties=
+
+Alkenes are molecules with carbons bonded to hydrogens which contain at least two sp&lt;sup&gt;2&lt;/sup&gt; hybridized carbon atoms.  That is, to say, at least one carbon-to-carbon double bond, where the carbon atoms, in addition to an electron pair shared in a ''sigma'' (&amp;sigma;) bond, share one pair of electrons in a ''pi'' (&amp;pi;) bond between them.
+
+The general formula for an aliphatic alkene is: C&lt;sub&gt;n&lt;/sub&gt;H&lt;sub&gt;2n&lt;/sub&gt; -- ''e.g.'' C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt; ''or'' C&lt;sub&gt;3&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;
+
+==Diastereomerism==
+
+===Restricted rotation===
+Because of the characteristics of pi-bonds, alkenes have very limited rotation around the double bonds between two atoms. In order for the alkene structure to rotate the pi-bond would first have to be broken - which would require about 60 or 70 kcal of energy.  For this reason alkenes have different chemical properties based on which side of the bond each atom is located.
+
+For example, but-2-ene exists as two [[Organic Chemistry/Chirality/Diastereomers|diastereomers]]:
+
+&lt;center&gt;
+
+{| BORDER
+|-
+|
+ ||
+|-
+| (Z)-but-2-ene || (E)-But-2-ene
+|-
+|[[Image:Cis-2-butene.PNG]]||[[Image:Trans-2-butene.PNG]]
+|-
+| cis-but-2-ene || trans-but-2-ene
+|}
+
+&lt;/center&gt;
+
+=Relative stability=
+Observing the reaction of the addition of hydrogen to 1-butene, (Z)-2-butene, and (E)-2-butene, we can see that all of the products are butane.  The difference between the reactions is that each reaction has a different energy: -30.3 kcal/mol for 1-butene, -28.6 kcal/mol for (Z)-2-butene and -27.6 kcal/mol for (E)-2-butene.  This illustrates that there are differences in the stabilities of the three species of butene isomers, due to the difference in how much energy can be released by reducing them.
+
+The relative stability of alkenes may be estimated based on the following concepts:
+*An internal alkene (the double bond ''not'' on the terminal carbon) is more stable than a terminal alkene (the double bond ''is'' on a terminal carbon).
+
+Internal alkenes are more stable than terminal alkenes because they are connected to more carbons on the chain. Since a terminal alkene is located at the end of the chain, the double bond is only connected to one carbon, and is called primary (1°). Primary carbons are the least stable. In the middle of a chain, a double bond could be connected to two carbons. This is called secondary (2°). The most stable would be quaternary (4°).
+
+*In general, the more and the bulkier the alkyl groups on a sp&lt;sup&gt;2&lt;/sup&gt;-hybridized carbon in the alkene, the more stable that alkene is.
+
+*A trans double bond is more stable than a cis double bond.
+
+=Reactions=
+
+==Preparation==
+
+There are several methods for creating alkenes.&lt;ref&gt;IIT Chemistry by Dr.O.P.Agrawal and Avinash Agrawal&lt;/ref&gt; Some of these methods, such as the Wittig reaction, we'll only describe briefly in this chapter and instead, cover them in more detail later in the book. For now, it's enough to know that they are ways of creating alkenes.
+
+===Dehydrohalogenation of Haloalkanes===
+
+[[Image:Synthesis_of_alkenes_-_Dehydrohalogenation3.png|thumb|400px|center|Synthesis of alkene by dehydrohalogenation]]
+
+Alkyl halides are converted into alkenes by dehydrohalogenation: elimination of the elements of hydrogen halide. Dehydrohalogenation involves removal of the halogen atom together with a hydrogen atom from a carbon adjacent to the one bearing the halogen. It uses the E2 elimination mechanism that we'll discuss in detail at the end of this chapter The haloalkane must have a hydrogen and halide 180° from each other on neighboring carbons. If there is no hydrogen 180° from the halogen on a neighboring carbon, the reaction will not take place. It is not surprising that the reagent required for the elimination of what amounts to a molecule of acid is a strong base for example: alcholic KOH.&lt;p&gt;
+     In some cases this reaction yields a single alkene. and in other cases yield a mixture. n-Butyl chloride, for example, can eliminate hydrogen only from C-2 and hence yields only 1-butene. sec-Butyl chloride, on the other hand, can eliminate hydrogen from either C-l or C-3 and hence yields both 1-butene and 2-butene. Where the two alkenes can be formed, 2-butene is the chief product.
+
+===Dehalogenation of Vicinal Dibromides===
+
+[[Image:Synthesis_of_alkenes_from_vicinal_dihalides2.png|thumb|400px|center|Synthesis of alkene via debromination of vicinal dihalides using Sodium Iodide]]
+
+[[Image:Synthesis_of_alkenes_from_vicinal_dihalides1.png|thumb|400px|center|Synthesis of alkene via debromination of vicinal dihalides using Zinc]]
+
+The dehalogenation of vicinal dihalides (halides on two neighboring carbons, think &quot;vicinity&quot;) is another method for synthesizing alkenes. The reaction can take place using either sodium iodide in a solution of acetone, or it can be performed using zinc dust in a solution of either heated ethanol or acetic acid.
+
+This reaction can also be performed with magnesium in ether, though the mechanism is different as this actually produces, as an intermediate, a Grignard reagent that reacts with itself and and causes an elimination, resulting in the alkene.{{Citation needed|date=April 2012}}
+
+===Dehydration of alcohols===
+
+[[Image:Synthesis_of_alkenes_-_Dehydration_of_alcohol.png|thumb|400px|center|Synthesis of alkene by dehydration of an alcohol]]
+An alcohol is converted into an alkene by dehydration: elimination of a molecule of water. Dehydration requires the presence of an acid and the application of heat. It is generally carried out in either of two ways, heating the alcohol with sulfuric or phosphoric acid to temperatures as high as 200, or passing the alcohol vapor over alumina, Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; , at 350-400, alumina here serving as a Lewis acid.&lt;p&gt;
+Ease of dehydration of alcohols : 3° &gt; 2° &gt; 1° &lt;p&gt;
+Where isomeric alkenes can be formed, we again find the tendency for one isomer to predominate. Thus, sec-butyl alcohol, which might yield both 2-butene and 1-butene, actually yields almost exclusively the 2-isomer&lt;p&gt;
+The formation of 2-butene from n-butyl alcohol illustrates a characteristic of dehydration that is not shared by dehydrohalogenalion: the double bond can be formed at a position remote from the carbon originally holding the -OH group. This characteristic is accounted for later. It is chiefly because of the greater certainty as to where the double bond will appear that dehydrohalogeation is often preferred over dehydration as a method of making alkenes.
+
+===Reduction of Alkenes===
+Reduction of an alkene to the double-bond stage can unless the triple bond is at the end of a chain yield either a cis-alkene or a trans-alkene. Just which isomer predominates depends upon the choice of reducing agent.&lt;p&gt;
+Predominantly trans-alkene is obtained by reduction of alkenes with sodium or lithium in liquid ammonia. Almost entirely cis-alkene (as high as 98%) is obtained by hydrogenation of alkenes with several different catalysts : a specially prepared palladium called Lindlar's catalyst; or a nickel boride called P-2 catalyst.&lt;p&gt; 
+Each of these reactions is, then, highly stereoselective. The stereoselectivity in the cis-reduction of alkynes is attributed, in a general way, to the attachment of two hydrogens to the same side of an alkyne sitting on the catalyst surface; presumably this same stereochemistry holds for the hydrogenation of terminal alkenes which cannot yield cis- and trans-alkenes.
+
+===Wittig Reaction===
+[[Image:Wittig_reactions.png|thumb|400px|center|Synthesis of alkene via Wittig reaction]]
+
+==Markovnikov's Rule==
+
+Before we continue discussing reactions, we need to take a detour and discuss a subject that's very important in Alkene reactions, &quot;Markovnikov's Rule.&quot; This is a simple rule stated by the Russian Vladmir Markovnikov in 1869, as he was showing the orientation of addition of HBr to alkenes.
+
+His rule states:&quot;When an unsymmetrical alkene reacts with a hydrogen halide to give an alkyl halide, the hydrogen adds to the carbon of the alkene that has the greater number of hydrogen substituents, and the halogen to the carbon of the alkene with the fewer number of hydrogen substituents&quot; (This rule is often compared to the phrase: &quot;The rich get richer and the poor get poorer.&quot; Aka, the Carbon with the most Hydrogens gets another Hydrogen and the one with the least Hydrogens gets the halogen)
+
+This means that the nucleophile of the electophile-nucleophile pair is bonded to the position most stable for a carbocation, or partial positive charge in the case of a transition state. 
+
+===Examples===
+
+&lt;math&gt; CH_2=CH-CH_3 + H-Br -&gt; CH3-CHBr-CH_3 &lt;/math&gt;
+Here the Br attaches to the middle carbon over the terminal carbon, because of Markovnikov's rule, and this is called a Markovnikov product.
+
+===Markovnikov product===
+The product of a reaction that follows Markovnikov's rule is called a Markovnikov product.
+
+===Markovnikov addition===
+Markovnikov addition is an addition reaction which follows Markovnikov's rule, producing a Markovnikov product.
+
+===Anti-Markovnikov addition===
+Certain reactions produce the opposite of the Markovnikov product, yielding what is called anti-Markovnikov product. That is, hydrogen ends up on the more substituted carbon of the double bond. The hydroboration/oxidation reaction that we'll discuss shortly, is an example of this, as are reactions that are conducted in peroxides.
+
+A modernized version of Markovnikov's rule often explains the &quot;anti-Markovnikov&quot; behavior. The original Markovnikov rule predicts that the hydrogen (an electrophile) being added across a double bond will end up on the carbon with more hydrogens. Generalizing to all electrophiles, it is really the electrophile which ends up on the carbon with the greatest number of hydrogens. Usually hydrogen plays the role of the electrophile; however, hydrogen can also act as an nucleophile in some reactions. The following expansion of Markovnikov's rule is more versitile:
+
+&quot;When an alkene undergoes electrophilic addition, the electrophile adds to the carbon with the greatest number of hydrogen substituents. The nucleophile adds to the more highly substituated carbon.&quot;
+
+Or more simply:
+
+&quot;The species that adds first adds to the carbon with the greatest number of hydrogens.&quot;
+
+The fact that some reactions reliably produce anti-Markovnikov products is actually a powerful tool in organic chemistry. For example, in the reactions we discuss below, we'll show two different ways of creating alcohols from alkenes: Oxymercuration-Reduction and Hydroboration/Oxidation. Oxymercuration produces a Markovnikov product while Hydroboration produces an anti-Markovnikov product. This gives the organic chemist a choice in products without having to be stuck with a single product that might not be the most desired.
+
+===Why it works===
+
+Markovnikov's rule works because of the stability of [[Organic Chemistry/Introduction to reactions/Carbocations|carbocation intermediates]]. Experiments tend to reveal that carbocations are planar molecules, with a carbon that has three substituents at 120° to each other and a vacant &lt;i&gt;p&lt;/i&gt; orbital that is perpendicular to it in the 3rd plane. The &lt;i&gt;p&lt;/i&gt; orbital extends above and below the trisubstituent plane.
+
+This leads to a stabilizing effect called hyperconjugation. Hyperconjugation is what happens when there is an unfilled (antibonding or vacant) C-C &amp;pi; orbital and a filled C-H &amp;sigma; bond orbital next to each other. The result is that the filled C-H &amp;sigma; orbital interacts with the unfilled C-C &amp;pi; orbital and stabilizes the molecule. The more highly substituted the molecule, the more chances there are for hyperconjugation and thus the more stable the molecule is.
+
+Another stabilizing effect is an [[Organic Chemistry/Introduction to reactions/Inductive effect|inductive effect]].
+
+===Exceptions to the Rule===
+There are a few exceptions to the Markovnikov rule, and these are of tremendous importance to organic synthesis.
+
+# HBr in Hydrogen Peroxide: Due to formation of free radicals, and the mechanism in which it reacts, the alkyl free radical forms at the middle atom, where it is most stable, and a hydrogen attaches itself here. Note here hydrogen addition is the second step, unlike in the above example.
+
+==Addition reactions==
+
+===Hydroboration===
+
+Hydroboration is a very useful reaction in Alkenes, not as an end product so much as an intermediate product for further reactions. The primary one we'll discuss below is the Hydroboration/Oxidation reaction which is actually an a hydroboration reaction followed by a completely separate oxidation reaction.
+
+[[Image:Hydroboration_mechanism_in_alkene.png|759px|thumb|center|Hydroboration mechanism]]
+
+The addition of BH&lt;sub&gt;3&lt;/sub&gt; is a concerted reaction in that several bonds are broken and formed at the same time. Hydroboration happens in what's called [[Organic_Chemistry/Glossary#S|syn-addition]] because the boron and one of its hydrogens attach to the same side of the alkene at the same time. As you can see from the transition state in the center of the image, this produces a sort of box between the two alkene carbons and the boron and its hydrogen. In the final step, the boron, along with its other two hydrogens, remains attached to one carbon and the other hydrogen attaches to the adjacent carbon.
+
+This description is fairly adequate, however, the reaction actually continues to happen and the -BH&lt;sub&gt;2&lt;/sub&gt; continue to react with other alkenes giving an R&lt;sub&gt;2&lt;/sub&gt;BH and then again, until you end up with a complex of the boron atom attached to 3 alkyl groups, or R&lt;sub&gt;3&lt;/sub&gt;B.
+
+This trialkyl-boron complex is then used in other reactions to produce various products.
+&lt;center&gt;
+{|
+|[[Image:Borane-state.png|150px|thumb|B&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt; complex]]||[[Image:Bh3-thf-complex.png|150px|thumb|BH&lt;sub&gt;3&lt;/sub&gt;-THF complex]]
+|}
+&lt;/center&gt;
+
+Borane, in reality, is not stable as BH&lt;sub&gt;3&lt;/sub&gt;. Boron, in this configuration has only 6 electrons and wants 8, so in its natural state it actually creates the B&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt; complex shown on the left.
+
+Furthermore, instead of using B&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt; itself, BH&lt;sub&gt;3&lt;/sub&gt; is often used in a complex with tetrahydrofuran (THF) as shown in the image on the right.In either situation, the result of the reactions are the same.
+
+===Hydroboration/Oxidation===
+&lt;ref name=McMurry&gt;Organic Chemistry, John McMurry&lt;/ref&gt;
+[[Image:Hydroboration_oxdation_of_alkene.png|500px|thumb|center|Hydroboration/Oxidation reaction]]
+
+With the reagent diborane, (BH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;, alkenes undergo hydroboration to yield alkylboranes, R&lt;sub&gt;3&lt;/sub&gt;B, which on oxidation give alcohols.The reaction procedure is simple and convenient, the yields are exceedingly high, and the products are ones difficult to obtain from alkenes in anyother way.&lt;p&gt;
+Diborane is the dimer of the hypothetical BH3 (borane) and, in the reactions that concern us, acts much as though it were BH&lt;sub&gt;3&lt;/sub&gt; . Indeed, in tetrahydrofuran, one of the solvents used for hydroboration, the reagent exists as the monomer, in the form of an acid-base complex with the solvent.&lt;p&gt; Hydroboration involves addition to the double bond of BH&lt;sub&gt;3&lt;/sub&gt; (or, in following
+stages, BH&lt;sub&gt;2&lt;/sub&gt;R and BHR&lt;sub&gt;2&lt;/sub&gt;), with hydrogen becoming attached to one doubly-bonded
+carbon, and boron to the other. The alkylborane can then undergo oxidation,
+in which the boron is replaced by -OH. &lt;p&gt; Thus, the two-stage reaction process of hydroboration-oxidation permits, in effect, the addition to the carbon-carbon double bond of the elements of H-OH.&lt;p&gt;
+Reaction is carried out in an ether, commonly tetrahydrofuran or &quot;diglyme&quot;
+(diethylene glycol methyl ether, CH&lt;sub&gt;3&lt;/sub&gt;OCH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;OCH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;OCH&lt;sub&gt;3&lt;/sub&gt;). Diborane is
+commercially available in tetrahydrofuran solution. The alkylboranes are not
+isolated, but are simply treated in situ with alkaline hydrogen peroxide.
+=====Stereochemistry and Orientation=====
+Hydroboration-oxidation, then, converts alkenes into alcohols. Addition is highly regiospecific; the preferred product here, however, is exactly opposite to the one formed by oxymercuration-demercuration or by direct acid-catalyzed hydration.&lt;p&gt;
+The hydroboration-oxtdation process gives products corresponding to &lt;b&gt;anti-Markovnikov&lt;/b&gt;
+addition of water to the carbon-carbon double bond.&lt;p&gt;
+The reaction of 3,3-dimethyl-l -butene illustrates a particular advantage of the
+method. Rearrangement does not occur in hydroboration evidently because
+carbonium ions are not intermediates and hence the method can be used without
+the complications that often accompany other addition reactions.
+The reaction of 1,2-dimethylcyclopentene illustrates the stereochemistry of
+the synthesis: hydroboration-oxidation involves overall&lt;b&gt; syn addition&lt;/b&gt;.&lt;p&gt;
+
+===Oxymercuration/Reduction===
+&lt;ref name=McMurry/&gt;
+[[Image:Oxymercuration_reduction.png|500px|thumb|center|Oxymercuration/Reduction of 1-propene]]
+
+Alkenes react with mercuric acetate in the presence of water to give hydroxymercurial compounds which on reduction yield alcohols.&lt;p&gt; The first stage, oxymercuration, involves addition to the carbon-carbon double bond of -OH and -HgOAc. Then, in reduction, the -HgOAc is replaced by -H. The reaction sequence amounts to hydration of the alkene, but is much more widely applicable than direct hydration.&lt;p&gt;
+The two-stage process of oxymercuration/reduction is fast and convenient, takes place under mild conditions, and gives excellent yields often over 90%. The alkene is added at room temperature to an aqueous solution of mercuric acetate diluted with the solvent tetrahydrofuran. Reaction is generally complete within minutes. The organomercurial compound is not isolated but is simply reduced in situ by sodium borohydride, NaBH&lt;sub&gt;4&lt;/sub&gt;. (The mercury is recovered as a ball of elemental mercury.)&lt;p&gt;
+Oxymercuration/reduction is highly regiospecific, and gives alcohols corresponding to Markovnikov addition of water to the carbon-carbon doublen bond.&lt;p&gt;
+Oxymercuration involves electrophilic addition to the carbon-carbon double bond, with the mercuric ion acting as electrophile. The absence of rearrangement and the high degree of stereospecificity (typically anti) in the oxymercuration step argues against an open carbonium ion as intermediate. Instead, it has been proposed, there is formed a cyclic mercurinium ion, analogous to the bromonium and chloronium ions involved in the addition of halogens. In 1971, Olah reported spectroscopic evidence for the preparation of stable solutions of such mercurinium ions.&lt;p&gt;
+The mercurinium ion is attacked by the nucleophilic solvent water, in the
+present case to yield the addition product. This attack is back-side (unless prevented
+by some structural feature) and the net result is anti addition, as in the
+addition of halogens. Attack is thus of the S&lt;sub&gt;N&lt;/sub&gt;2 type; yet the orientation
+of addition shows that the nucleophile becomes attached to the more highly substituted
+carbon as though there were a free carbonium ion intermediate. As we
+shall see, the transition state in reactions of such unstable threemembered
+rings has much S&lt;sub&gt;N&lt;/sub&gt;1 character.&lt;p&gt; Reduction is
+generally not stereospecific and can, in certain special cases, be accompanied by
+rearrangement.&lt;p&gt; Despite the stereospecificity of the first stage, then, the overall process is not,in general, stereospecific. Rearrangements can occur, but are not common. The
+reaction of 3,3-dimethyl-1-butene illustrates the absence of the rearrangements
+that are typical of intermediate carbonium ions.
+
+===Diels-Alder Reaction===
+
+The Diels–Alder reaction is a reaction (specifically, a cycloaddition) between a conjugated diene and a substituted alkene, commonly termed the dienophile, to form a substituted cyclohexene system. The reaction can proceed even if some of the atoms in the newly formed ring are not carbon. Some of the Diels–Alder reactions are reversible; the decomposition reaction of the cyclic system is then called the retro-Diels–Alder. &lt;p&gt;
+[[Image: Diels-alder_(1,3-butadiene_-_Ethylene).png|500px|thumb|center|Diels-alder for 1,3-butadiene-Ethylene]]
+
+The Diels–Alder reaction is generally considered one of the more useful reactions in organic chemistry since it requires very little energy to create a cyclohexene ring, which is useful in many other organic reactions &lt;p&gt;
+A concerted, single-step mechanism is almost certainly involved; both new carbon-carbon bonds are partly formed in the same transition state, although not necessarily to the same extent. The Diels-Alder reaction is the most important example of cycloaddition. Since reaction involves a system of 4 π electrons (the diene) and a system of 2 π it electrons (the dienophile), it is known as a [4 + 2] cycloaddition.
+
+===Catalytic addition of hydrogen===
+Catalytic hydrogenation of alkenes produce the corresponding alkanes. The reaction is carried out under pressure in the presence of a metallic catalyst. Common industrial catalysts are based on platinum, nickel or palladium, but for laboratory syntheses, [[w:Raney nickel|Raney nickel]] (formed from an alloy of nickel and aluminium) is often employed.
+
+The catalytic hydrogenation of ethylene to yield ethane proceeds thusly:
+:CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt; + H&lt;sub&gt;2&lt;/sub&gt; + catalyst → CH&lt;sub&gt;3&lt;/sub&gt;-CH&lt;sub&gt;3&lt;/sub&gt;
+
+===Electrophilic addition===
+
+Most addition reactions to alkenes follow the mechanism of electrophilic addition. An example is the [[w:Prins reaction|Prins reaction]], where the electrophile is a carbonyl group.
+
+====Halogenation====
+
+Addition of elementary bromine or chlorine to alkenes yield vicinal dibromo- and dichloroalkanes, respectively.
+
+The decoloration of a solution of bromine in water is an analytical test for the presence of alkenes: CH&lt;sub&gt;2&lt;/sub&gt;=CH&lt;sub&gt;2&lt;/sub&gt; + Br&lt;sub&gt;2&lt;/sub&gt; → BrCH&lt;sub&gt;2&lt;/sub&gt;-CH&lt;sub&gt;2&lt;/sub&gt;Br
+
+The reaction works because the high electron density at the double bond causes a temporary shift of electrons in the Br-Br bond causing a temporary induced dipole. This makes the Br closest to the double bond slightly positive and therefore an electrophile.
+
+====Hydrohalogenation====
+Addition of hydrohalic acids like HCl or HBr to alkenes yield the corresponding haloalkanes.
+
+:an example of this type of reaction: CH&lt;sub&gt;3&lt;/sub&gt;CH=CH&lt;sub&gt;2&lt;/sub&gt; + HBr → CH&lt;sub&gt;3&lt;/sub&gt;-CHBr-CH&lt;sub&gt;3&lt;/sub&gt;
+
+If the two carbon atoms at the double bond are linked to a different number of hydrogen atoms, the halogen is found preferentially at the carbon with less hydrogen substituents (Markovnikov's rule).
+
+Addition of a carbene or carbenoid yields the corresponding cyclopropane
+
+===Oxidation===
+Alkenes are oxidized with a large number of oxidizing agents.  In the presence of oxygen, alkenes burn with a bright flame to carbon dioxide and water.  Catalytic oxidation with oxygen or the reaction with percarboxylic acids yields epoxides.
+
+Reaction with ozone in ozonolysis leads to the breaking of the double bond, yielding two aldehydes or ketones:
+R&lt;sub&gt;1&lt;/sub&gt;-CH=CH-R&lt;sub&gt;2&lt;/sub&gt; + O&lt;sub&gt;3&lt;/sub&gt; → R&lt;sub&gt;1&lt;/sub&gt;-CHO + R&lt;sub&gt;2&lt;/sub&gt;-CHO + H&lt;sub&gt;2&lt;/sub&gt;O
+
+This reaction can be used to determine the position of a double bond in an unknown alkene.
+
+===Polymerization===
+Polymerization of alkenes is an economically important reaction which yields polymers of high industrial value, such as the plastics polyethylene and polypropylene. Polymerization can either proceed via a free-radical or an ionic mechanism.
+
+=Substitution and Elimination Reaction Mechanisms=
+
+==Nucleophilic Substitution Reactions==
+Nucleophilic substitution reactions ('''S&lt;sub&gt;N&lt;/sub&gt;1''' and '''S&lt;sub&gt;N&lt;/sub&gt;2''') are very closely related to the '''E1''' and '''E2''' elimination reactions, discussed later in this section, and it is generally a good idea to learn the reactions together, as there are parallels in reaction mechanism, preferred substrates, and the reactions sometimes compete with each other.
+
+It's important to understand that substitution and elimination reactions are not associated with a specific compound or mixture so much as they're a representation of how certain reactions take place. At times, combinations of these mechanisms may occur together in the same reaction or may compete against each other, with influences such as solvent or nucleophile choice being the determining factor as to which reaction will dominate.
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;H3&gt;Note&lt;/H3&gt;
+In the notation '''S&lt;sub&gt;N&lt;/sub&gt;1''' and '''S&lt;sub&gt;N&lt;/sub&gt;2, '''
+
+:'''S''' stands for ''substitution'' (something takes the place of something else)&lt;br&gt;
+:'''N''': stands for ''nucleophilic'' (a '''nucleophile''' displaces another nucleophile)&lt;br&gt;
+:'''1''': stands for ''unimolecular'' (the concentration of only one kind of molecule determines the rate of the reaction)&lt;br&gt;
+:'''2''': stands for ''bimolecular'' (the concentration of two types of molecules determine the rate of the reaction)
+|}
+
+In nucleophilic substitution, a '''nucleophile''' attacks a molecule and takes the place of another nucleophile, which then leaves. The nucleophile that leaves is called the '''leaving group'''.
+
+Nucleophilic substitutions ''require ''
+#a '''nucleophile''' (such as a Lewis base)
+#an '''electrophile''' with a '''leaving group'''
+
+A '''leaving group''' is a charged or neutral moiety (group) which breaks free.
+
+===S&lt;sub&gt;N&lt;/sub&gt;1 vs S&lt;sub&gt;N&lt;/sub&gt;2===
+One of the main differences between '''S&lt;sub&gt;N&lt;/sub&gt;1''' and '''S&lt;sub&gt;N&lt;/sub&gt;2''' is that the '''S&lt;sub&gt;N&lt;/sub&gt;1''' reaction is a 2-step reaction, initiated by disassociation of the leaving group. The '''S&lt;sub&gt;N&lt;/sub&gt;2''' reaction, on the other hand, is a 1-step reaction where the attacking nucleophile, because of its higher affinity for and stronger bonding with the carbon, forces the leaving group to leave. These two things happen in a single step.
+
+These two different mechanisms explain the difference in reaction rates between '''S&lt;sub&gt;N&lt;/sub&gt;1''' and '''S&lt;sub&gt;N&lt;/sub&gt;2''' reactions. '''S&lt;sub&gt;N&lt;/sub&gt;1''' reactions are dependent on the leaving group disassociating itself from the carbon. It is the rate-limiting step and thus, the reaction rate is a first-order reaction whose rate depends solely on that step.
+
+:&lt;math&gt;Rate = k[RX]&lt;/math&gt;
+
+Alternatively, in '''S&lt;sub&gt;N&lt;/sub&gt;2''' reactions, the single step of the nucleophile coming together with the reactant from the opposite side of the leaving group, is the key to its rate. Because of this, the rate is dependent on both the concentration of the nucleophile as well as the concentration of the reactant. The higher these two concentrations, the more frequent the collisions. Thus the reaction rate is a second-order reaction:
+
+:&lt;math&gt;Rate = k[Nu:][RX]&lt;/math&gt; (where Nu: is the attacking nucleophile)
+
+===S&lt;sub&gt;N&lt;/sub&gt;2 Reactions===
+
+There are primarily 3 things that affect whether an '''S&lt;sub&gt;N&lt;/sub&gt;2''' reaction will take place or not. The most important is structure. That is whether the alkyl halide is on a methyl, primary, secondary, or tertiary carbon. The other two components that determine whether an '''S&lt;sub&gt;N&lt;/sub&gt;2''' reaction will take place or not, are the nucleophilicity of the nucleophile and the solvent used in the reaction.
+
+{| WIDTH=&quot;99%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;bottom&quot; |
+&lt;H3&gt;Reactivity Due to Structure of S&lt;sub&gt;N&lt;/sub&gt;2&lt;/H3&gt;
+CH&lt;sub&gt;3&lt;/sub&gt;X &gt; RCH&lt;sub&gt;2&lt;/sub&gt;X &gt; R&lt;sub&gt;2&lt;/sub&gt;CHX &gt;&gt; R&lt;sub&gt;3&lt;/sub&gt;CX
+
+|}
+
+The structure of the alkyl halide has a great effect on mechanism. CH&lt;sub&gt;3&lt;/sub&gt;X &amp; RCH&lt;sub&gt;2&lt;/sub&gt;X are the preferred structures for '''S&lt;sub&gt;N&lt;/sub&gt;2'''. R&lt;sub&gt;2&lt;/sub&gt;CHX can undergo the '''S&lt;sub&gt;N&lt;/sub&gt;2''' under the proper conditions (see below), and R&lt;sub&gt;3&lt;/sub&gt;CX rarely, if ever, is involved in '''S&lt;sub&gt;N&lt;/sub&gt;2''' reactions.
+
+[[Image:SN2CompleteReactionMechanism3.png|frame|center|S&lt;sub&gt;N&lt;/sub&gt;2 nucleophilic substitution of bromine with a generic nucleophile]]
+
+The reaction takes place by the nucleophile attacking from the opposite side of the bromine atom. Notice that the other 3 bonds are all pointed away from the bromine and towards the attacking nucleophile. When these 3 bonds are hydrogen bonds, there's very little steric hinderance of the approaching nucleophile. However, as the number of R groups increases, so does the steric hinderance, making it more difficult for the nucleophile to get close enough to the [[w:alpha carbon|α-carbon]], to expel the bromine atom. In fact, tertiary carbons (R&lt;sub&gt;3&lt;/sub&gt;CX) are so sterically hindered as to prevent the '''S&lt;sub&gt;N&lt;/sub&gt;2''' mechanim from taking place at all.
+
+In the case of this example, a secondary α-carbon, there is still a great deal of steric hinderance and and whether the '''S&lt;sub&gt;N&lt;/sub&gt;2''' mechanism will happen will depend entirely on what the nucleophile and solvent are. '''S&lt;sub&gt;N&lt;/sub&gt;2''' reactions are preferred for methyl halides and primary halides.
+
+Another important point to keep in mind, and this can be seen clearly in the example above, during an '''S&lt;sub&gt;N&lt;/sub&gt;2''' reaction, the molecule undergoes an inversion. The bonds attached to the α-carbon are pushed away as the nucleophile approaches. During the transition state, these bonds become planar with the carbon and, as the bromine leaves and the nucleophile bonds to the α-carbon, the other bonds fold back away from the nucleophile. This is particularly important in [[Organic_Chemistry/Chirality|chiral]] or pro-chiral molecules, where an R configuration will be converted into an S configuration and vice versa. As you'll see below, this is in contrast to the results of '''S&lt;sub&gt;N&lt;/sub&gt;1''' reactions.
+
+'''Examples:'''
+
+:OH&lt;sup&gt;-&lt;/sup&gt; + CH&lt;sub&gt;3&lt;/sub&gt;—Cl → HO—CH&lt;sub&gt;3&lt;/sub&gt; + Cl&lt;sup&gt;-&lt;/sup&gt;
+
+OH- is the nucleophile, Cl is the electrophile, HOCH3 is the product, and Cl- is the leaving group.
+
+or,
+
+:Na&lt;sup&gt;+&lt;/sup&gt;I&lt;sup&gt;-&lt;/sup&gt; + CH&lt;sub&gt;3&lt;/sub&gt;-Br → I-CH&lt;sub&gt;3&lt;/sub&gt; + Na&lt;sup&gt;+&lt;/sup&gt;Br&lt;sup&gt;-&lt;/sup&gt;
+
+The above reaction, taking place in acetone as the solvent, sodium and iodide disassociate almost completely in the acetone, leaving the iodide ions free to attack the CH-Br molecules. The negatively charged iodide ion, a nucleophile, attacks the methyl bromide molecule, forcing off the negatively charged bromide ion and taking its place. The bromide ion is the leaving group.
+
+====Nucleophilicity====
+Nucleophilicity is the rate at which a nucleophile displaces the leaving group in a reaction. Generally, nucleophilicity is stronger, the larger, more polarizable, and/or the less stable the nucleophile. No specific number or unit of measure is used. All other things being equal, nucleophiles are generally compared to each other in terms of relative reactivity. For example, a particular strong nucleophile might have a relative reactivity of 10,000 that of a particular weak nucleophile. These relationships are generalities as things like solvent and substrate can affect the relative rates, but they are generally good guidelines for which species make the best nucleophiles.
+
+All nucleophiles are [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases|Lewis bases]]. In '''S&lt;sub&gt;N&lt;/sub&gt;2''' reactions, the preferred nucleophile is a strong nucleophile that is a weak base. Examples of these are N&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;-&lt;/sup&gt;, RS&lt;sup&gt;-&lt;/sup&gt;, I&lt;sup&gt;-&lt;/sup&gt;, Br&lt;sup&gt;-&lt;/sup&gt;, and CN&lt;sup&gt;-&lt;/sup&gt;.
+
+Alternatively, a strong nucleophile that's also a strong base can also work. However, as mentioned earlier in the text, sometimes reaction mechanisms compete and in the case of a strong nucleophile that's a strong base, the '''S&lt;sub&gt;N&lt;/sub&gt;2''' mechanism will compete with the '''E2''' mechanism. Examples of strong nucleophiles that are also strong bases, include RO&lt;sup&gt;-&lt;/sup&gt; and OH&lt;sup&gt;-&lt;/sup&gt;.
+
+
+{| WIDTH=&quot;99%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;bottom&quot; |
+
+&lt;H3&gt;List of descending nucleophilicities&lt;/H3&gt;
+I&lt;sup&gt;-&lt;/sup&gt; &gt; Br&lt;sup&gt;-&lt;/sup&gt; &gt; Cl&lt;sup&gt;-&lt;/sup&gt; &gt;&gt; F&lt;sup&gt;-&lt;/sup&gt; &gt; -SeH &gt; -OH &gt; H&lt;sub&gt;2&lt;/sub&gt;O
+|}
+
+
+====Leaving Group====
+Leaving group is the group on the substrate that leaves. In the case of an alkyl halide, this is the halide ion that leaves the carbon atom when the nucleophile attacks. The tendency of the nucleophile to leave is
+
+{| WIDTH=&quot;25%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;bottom&quot; |
+
+&lt;H3&gt;Relative Reactivity of Leaving Groups&lt;/H3&gt;
+I&lt;sup&gt;-&lt;/sup&gt; &gt; Br&lt;sup&gt;-&lt;/sup&gt; &gt; Cl&lt;sup&gt;-&lt;/sup&gt; &gt;&gt; F&lt;sup&gt;-&lt;/sup&gt;
+|}
+Fluoride ions are very poor leaving groups because they bond very strongly and are very rarely used in alkyl halide substitution reactions. Reactivity of a leaving group is related to its basicity with stronger bases being poorer leaving groups.
+
+====Solvent====
+
+The solvent can play an important role in '''S&lt;sub&gt;N&lt;/sub&gt;2''' reactions, particularly in '''S&lt;sub&gt;N&lt;/sub&gt;2''' involving secondary alkyl halide substrates, where it can be the determining factor in mechanism. Solvent can also have a great effect on reaction rate of '''S&lt;sub&gt;N&lt;/sub&gt;2''' reactions.
+
+The '''S&lt;sub&gt;N&lt;/sub&gt;2''' mechanism is preferred when the solvent is an aprotic, [[Organic Chemistry/Foundational concepts of organic chemistry/Electronegativity|polar]] solvent. That is, a solvent that is polar, but without a polar hydrogen. Polar, protic solvents would include water, alcohols, and generally, solvents with polar NH or OH bonds. Good aprotic, polar solvents are [[w:Hexamethylphosphoramide|HMPA]], CH&lt;sub&gt;3&lt;/sub&gt;CN, [[w:Dimethyl sulfoxide|DMSO]], and [[w:Dimethylformamide|DMF]].
+
+A polar solvent is preferred because it better allows the dissociation of the halide from the alkyl group. A protic solvent with a polar hydrogen, however, forms a 'cage' of hydrogen-bonded solvent around the nucleophile, hindering its approach to the substrate.
+
+{| WIDTH=&quot;58%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;bottom&quot; |
+&lt;H3&gt;Relative Reactivity of Solvents&lt;/H3&gt;
+HMPA &gt; CH&lt;sub&gt;3&lt;/sub&gt;CN &gt; DMF &gt; DMSO &gt;&gt; H&lt;sub&gt;2&lt;/sub&gt;O
+|}
+
+===S&lt;sub&gt;N&lt;/sub&gt;1 Reactions===
+The '''S&lt;sub&gt;N&lt;/sub&gt;1''' mechanism is very different from the '''S&lt;sub&gt;N&lt;/sub&gt;2''' mechanism. In some of its preferences, its exactly the opposite and, in some cases, the results of the reaction can be significantly different.
+
+Like the '''S&lt;sub&gt;N&lt;/sub&gt;2''' mechanism, structure plays an important role in the '''S&lt;sub&gt;N&lt;/sub&gt;1''' mechanism. The role of structure in the '''S&lt;sub&gt;N&lt;/sub&gt;1''' mechanism, however, is quite different and because of this, the reactivity of structures is more or less reversed.
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+
+&lt;H3&gt;Reactivity Due to Structure of S&lt;sub&gt;N&lt;/sub&gt;1&lt;/H3&gt;
+CH&lt;sub&gt;3&lt;/sub&gt;X &lt; RCH&lt;sub&gt;2&lt;/sub&gt;X &lt;&lt; R&lt;sub&gt;2&lt;/sub&gt;CHX &lt; R&lt;sub&gt;3&lt;/sub&gt;CX
+
+|}
+
+The '''S&lt;sub&gt;N&lt;/sub&gt;1''' mechanism is preferred for tertiary alkyl halides and, depending on the solvent, may be preferred in secondary alkyl halides. The '''S&lt;sub&gt;N&lt;/sub&gt;1''' mechanism does not operate on primary alkyl halides or methyl halides. To understand why this is so, let's take a look at how the '''S&lt;sub&gt;N&lt;/sub&gt;1''' mechanism works.
+
+[[Image:SN1CompleteMechanism2.png|frame|center|S&lt;sub&gt;N&lt;/sub&gt;1 nucleophilic substitution of a generic halide with a water molecule to produce an alcohol.]]
+
+At the top of the diagram, the first step is the spontaneous dissociation of the halide from the alkyl halide. Unlike the '''S&lt;sub&gt;N&lt;/sub&gt;2''' mechanism, where the attacking nucleophile causes the halide to leave, the '''S&lt;sub&gt;N&lt;/sub&gt;1''' mechanism depends on the ability of the halide to leave on its own. This requires certain conditions. In particular, the stability of the [[Organic Chemistry/Introduction to reactions/Carbocations|carbocation]] is crucial to the ability of the halide to leave. Since we know tertiary carbocations are the most stable, they are the best candidates for the '''S&lt;sub&gt;N&lt;/sub&gt;1''' mechanism. And with appropriate conditions, secondary carbocations will also operate by the '''S&lt;sub&gt;N&lt;/sub&gt;1''' mechanism. Primary and methyl carbocations however, are not stable enough to allow this mechanism to happen.
+
+Once the halide has dissociated, the water acts as a nucleophile to bond to the carbocation. In the'''S&lt;sub&gt;N&lt;/sub&gt;2''' reactions, there is an inversion caused by the nucleophile attacking from the opposite side while the halide is still bonded to the carbon. In the '''S&lt;sub&gt;N&lt;/sub&gt;1''' mechanism, since the halide has left, and the bonds off of the α-carbon have become planar, the water molecule is free to attack from either side. This results in, primarily, a [[w:Racemic|racemic]] mixture. In the final step, one of the hydrogens of the bonded water molecule is attacked by another water molecule, leaving an alcohol.
+
+''Note: Racemic mixtures imply entirely equal amounts of mixture, however this is rarely the case in '''S&lt;sub&gt;N&lt;/sub&gt;1'''. There is a slight tendency towards attack from the opposite side of the halide. This is the result some steric hinderence from the leaving halide which is sometimes close enough to the leaving side to block the nucleophile's approach from that side.''
+
+====Solvent====
+Like the '''S&lt;sub&gt;N&lt;/sub&gt;2''' mechanism, the '''S&lt;sub&gt;N&lt;/sub&gt;1''' is affected by solvent as well. As with structure, however, the reasons differ. In the '''S&lt;sub&gt;N&lt;/sub&gt;1''' mechanism, a polar, protic solvent is used. The polarity of the solvent is associated with the dielectric constant of the solvent and solutions with high dielectric constants are better able to support separated ions in solution. In '''S&lt;sub&gt;N&lt;/sub&gt;2''' reactions, we were concerned about polar hydrogen atoms &quot;caging&quot; our nucleophile. This still happens with a polar protic solvent in '''S&lt;sub&gt;N&lt;/sub&gt;1''' reactions, so why don't we worry about it? You have to keep in mind the mechanism of the reaction. The first step, and more importantly, the rate-limiting step, of the '''S&lt;sub&gt;N&lt;/sub&gt;1''' reaction, is the ability to create a stable carbocation by getting the halide anion to leave. With a polar protic solvent, just as with a polar aprotic solvent,we're creating a stable cation, however it's the polar hydrogens that stabilize the halide anion and make it better able to leave. Improving the rate-limiting step is always the goal. The &quot;caging&quot; of the nucleophile is unrelated to the rate-limiting step and even in its &quot;caged&quot; state, the second step, the attack of the nucleophile, is so much faster than the first step, that the &quot;caging&quot; can simply be ignored.
+
+===Summary===
+
+'''S&lt;sub&gt;N&lt;/sub&gt;1''', '''S&lt;sub&gt;N&lt;/sub&gt;2''', '''E1''', and '''E2''', are all reaction mechanisms, not reactions themselves. They are mechanisms used by a number of different reactions. Usually in organic chemistry, the goal is to synthesize a product. In cases where you have possibly competing mechanisms, and this is particularly the case where an '''S&lt;sub&gt;N&lt;/sub&gt;1''' and an '''E1''' reaction are competing, the dominating mechanism is going to decide what your product is, so knowing the mechanisms and which conditions favor one over the other, will determine your product.
+
+In other cases, knowing the mechanism allows you to set up an environment favorable to that mechanism. This can mean the difference between having your product in a few minutes, or sometime around the next ice age.
+
+So when you're designing a synthesis for a product, you need to consider, I want to get product Y, so what are my options to get to Y? Once you know your options and you've decided on a reaction, then you need to consider the mechanism of the reaction and ask yourself, how do I create conditions that are going to make this happen correctly and happen quickly?
+
+==Elimination Reactions==
+Nucleophilic substitution reactions and Elimination reactions share a lot of common characteristics, on top of which, the '''E1''' and '''S&lt;sub&gt;N&lt;/sub&gt;1''' as well as '''E2''' and '''S&lt;sub&gt;N&lt;/sub&gt;2''' reactions can sometimes compete and, since their products are different, it's important to understand them both. Without understanding both kinds of mechanisms, it would be difficult to get the product you desire from a reaction.
+
+In addition, the '''S&lt;sub&gt;N&lt;/sub&gt;1''' and '''S&lt;sub&gt;N&lt;/sub&gt;2''' reactions will be referenced quite a bit by way of comparison and contrast, so it's probably best to read that section first and then continue here.
+
+Elimination reactions are the mechanisms for creating alkene products from [[Organic_Chemistry/Haloalkanes|haloalkane]] reactants. '''E1''' and '''E2''' elimination, unlike '''S&lt;sub&gt;N&lt;/sub&gt;1''' and '''S&lt;sub&gt;N&lt;/sub&gt;2''' substitution, mechanisms do not occur with methyl halides because the reaction creates a double bond between two carbon atoms and methylhalides have only one carbon.
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+
+&lt;H3&gt;Note&lt;/H3&gt;
+In the notation '''E1''' and '''E2''',
+
+:'''E''' stands for ''elimination''&lt;br&gt;
+:'''1''': stands for ''unimolecular'' (the concentration of only one kind of molecule determines the rate of the reaction)&lt;br&gt;
+:'''2''': stands for ''bimolecular'' (the concentration of two types of molecules determine the rate of the reaction)
+|}
+
+===E1 vs E2===
+
+==== Reaction rates ====
+
+'''E1''' and '''E2''' are two different pathways to creating alkenes from haloalkanes. As with '''S&lt;sub&gt;N&lt;/sub&gt;1''' and '''S&lt;sub&gt;N&lt;/sub&gt;2''' reactions, one of the key differences is in the reaction rate, as it provides great insight into the mechanisms.
+
+'''E1''' reactions, like '''S&lt;sub&gt;N&lt;/sub&gt;1''' reactions are 2-step reactions. Also like '''S&lt;sub&gt;N&lt;/sub&gt;1''' reactions, the rate-limiting step is the dissociation of the halide from its alkane, making it a first-order reaction, depending on the concentration of the haloalkane, with a reaction rate of:
+
+:&lt;math&gt;Rate = k[RX]&lt;/math&gt;
+
+On the other hand, '''E2''' reactions, like '''S&lt;sub&gt;N&lt;/sub&gt;2''' reactions are 1-step reactions. And again, as with '''S&lt;sub&gt;N&lt;/sub&gt;2''' reactions, the rate limiting step is the ability of a nucleophile to attach to the alkane and displace the halide. Thus it is a second-order reaction that depends on the concentrations of both the nucleophile and haloalkane, with a reaction rate of:
+
+:&lt;math&gt;Rate = k[Nu:][RX]&lt;/math&gt; (where Nu: is the attacking nucleophile)
+
+==== Zaitsev's Rule ====
+
+[[Organic_Chemistry/Glossary#W, X, Y, Z|Zaitsev's rule]] (sometimes spelled &quot;Saytzeff&quot;) states that in an elimination reaction, when multiple products are possible, the most stable alkene is the major product. That is to say, the most highly substituted alkene (the alkene with the most non-hydrogen substituents) is the major product.
+
+Both '''E1''' and '''E2''' reactions produce a mixture of products, when possible, but generally follow Zaitsev's rule. We'll see below why '''E1''' reactions follow Zaitsev's rule more reliably and tend to produce a purer product.
+
+[[Image:Dehydrohalogenation_of_(S)-2-bromo-3-methylbutane_small.png|frame|center|'''Dehydrohalogenation reaction of (S)-2-bromo-3-methylbutane''']]
+
+The above image represents two possible pathways for the dehydrohalogenation of (S)-2-bromo-3-methylbutane. The two potential products are 2-methylbut-2-ene and 3-methylbut-1-ene. The images on the right are simplified drawings of the molecular product shown in the images in the center.
+
+As you can see on the left, the bromine is on the second carbon and in an '''E1''' or '''E2''' reaction, the hydrogen could be removed from either the 1st or the 3rd carbon. Zaitsev's rule says that the hydrogen will be removed predominantly from the 3rd carbon. In reality, there will be a mixture, but most of the product will be 2-methylbut-2-ene by the '''E1''' mechanism. By the '''E2''' reaction, as we'll see later, this might not necessarily be the case.
+
+===E2===
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;H3&gt;Reactivity Due to Structure of E2&lt;/H3&gt;
+RCH&lt;sub&gt;2&lt;/sub&gt;X &gt; R&lt;sub&gt;2&lt;/sub&gt;CHX &gt;&gt; R&lt;sub&gt;3&lt;/sub&gt;CX
+
+|}
+
+The '''E2''' mechanism is concerted and higly stereospecific, because it can occur only when the H and the leaving group X are in an anti-coplanar position. That is, in a Newman projection, the H and X must be 180°, or in the anti-configuration. This behaviour stems from the best overlap of the 2''p'' orbitals of the adjacent carbons when the pi bond has to be formed. If the H and the leaving group cannot be brought into this position due to the structure of the molecule, the ''E2'' mechanism will not take place.
+
+[[Image:E2-eliminationmechanism.png|frame|center|'''Mechanism of E2 elimination. Note the anti-coplanarity of the X-C-C-H atoms''']]
+
+Therefore, only molecules having accessible H-X anti-coplanar conformations can react via this route. Furthermore, the '''E2''' mechanism will operate contrary to Zaitsev's rule if the only anti-coplanar hydrogen from the leaving group results in the least stable alkene. A good example of how this can happen is by looking at how cyclohexane and cyclohexene derivatives might operate in '''E2''' conditions.
+
+[[Image:E2-Elimination_with_sterics_sample3.png|frame|center|'''E2''' with preferential elimination]]
+
+Let's look at the example above. The reactant we're using is 1-chloro-2-isopropylcyclohexane. The drawing at the top left is one conformation and the drawing below is after a ring flip. In the center are Newman projections of both conformations and the drawings on the right, the products.
+
+If we assume we're treating the 1-chloro-2-isopropylcyclohexane with a strong base, for example CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;O&lt;sup&gt;-&lt;/sup&gt; (ethanolate), the mechanism that dominates is '''E2'''. There are 3 hydrogens off of the carbons adjacent to our chlorinated carbon. The red and the green ones are two of them. The third would be hard to show but is attached to the same carbon as the red hydrogen, angled a little down from the plane and towards the viewer. The red hydrogen is the only hydrogen that's 180° from the chlorine atom, so it's the only one eligible for the '''E2''' mechanism. Because of this, the product is going to be only 3-isopropylcylcohex-1-ene. Notice how this is contrary to Zaitsev's rule which says the most substituted alkene is preferred. By his rule, 1-isopropylcyclohexene should be our primary product, as that would leave the most substituted alkene. However it simply can't be produced because of the steric hindrance.
+
+The images below shows the molecule after a ring flip. In this conformation, no product is possible. As you can see from the Newman projection, there are no hydrogens 180° from the chlorine atom.
+
+So it's important, when considering the '''E2''' mechanism, to understand the geometry of the molecule. Sometimes the geometry can be used to your advantage to preferentially get a single product. Other times it will prevent you from getting the product you want, and you'll need to consider a different mechanism to get your product.
+
+''Note: Often the word '''periplanar''' is used instead of '''coplanar'''. '''Coplanar''' implies precisely 180 degree separation and &quot;peri-&quot;, from Greek for &quot;near&quot;, implies near 180 degrees. Periplanar may actually be more accurate. In the case of the 1-chloro-3-isopropylcyclohexane example, because of molecular forces, the chlorine atom is actually slightly less than 180 degrees from both the hydrogen and the isopropyl group, so in this case, '''periplanar''' might be a more correct term.''
+
+===E1===
+
+
+[[Image:E1EliminationReaction.png|frame|center|E1 elimination of an alkyl halide by a base]]
+
+
+The '''E1''' mechanism begins with the dissociation of the leaving group from an alkyl, producing a carbocation on the alkyl group and a leaving anion. This is the same way the '''S&lt;sub&gt;N&lt;/sub&gt;1''' reaction begins, so the same thing that helps initiate that step in '''S&lt;sub&gt;N&lt;/sub&gt;1''' reactions, help initiate the step in '''E1''' reactions. More specifically, secondary and tertiary carbocations are preferred because they're more stable than primary carbocations. The choice of solvent is the same as '''S&lt;sub&gt;N&lt;/sub&gt;1''' as well; a polar protic solvent is preferred because the polar aspect stabilizes the carbocation and the protic aspect stabilizes the anion.
+
+What makes the difference between whether the reaction takes the '''S&lt;sub&gt;N&lt;/sub&gt;1''' or '''E1''' pathway then, must depend on the second step; the action of the nucleophile. In '''S&lt;sub&gt;N&lt;/sub&gt;1'''  reactions, a strong nucleophile that's a weak base is preferred. The nucleophile will then attack and bond to the carbocation. In '''E1''' reactions, a strong nucleophile is still preferred. The difference is that a strong nucleophile that's also a strong base, causes the nucleophile to attack the hydrogen at the β-carbon instead of the α-carbocation. The nucleophile/base then extracts the hydrogen causing the  bonding electrons to fall in and produce a pi bond with the carbocation.
+
+Because the hydrogen and the leaving group are lost in two separate steps and the fact that it has no requirements as to geometry, the '''E1''' mechanism more reliably produces products that follow Zaitsev's rule.
+
+=References=
+&lt;references/&gt;
+
+----
+[[Organic Chemistry/Haloalkanes|&lt;&lt; Haloalkanes]] |'''Alkenes'''| [[Organic Chemistry/Alkynes|Alkynes &gt;&gt;]]
+
+{{BookCat}}</text>
+      <sha1>evz3jgyzu4msuuytcriakpwvtfhuyfz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Chirality</title>
+    <ns>0</ns>
+    <id>12</id>
+    <revision>
+      <id>2594803</id>
+      <parentid>2557242</parentid>
+      <timestamp>2013-12-19T21:29:44Z</timestamp>
+      <contributor>
+        <ip>142.51.165.79</ip>
+      </contributor>
+      <comment>/* By optical activity: (+)- and (-)- */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">==Introduction==
+
+'''Chirality''' (pronounced kie-RAL-it-tee) is the property of ''handedness''. If you attempt to superimpose your right hand on top of your left, the two do not match up in the sense that your right hand's thumb overlays your left hand's pinky finger.  Your two hands cannot be superimposed identically, despite the fact that your fingers of each hand are connected in the same way.  Any object can have this property, including molecules.
+
+An object that is '''chiral''' is an object that can not be superimposed on its mirror image. Chiral objects don't have a ''plane of symmetry''. An achiral object has a plane of symmetry or a rotation-reflection axis, i.e. reflection gives a rotated version.
+
+'''Optical isomers''' or '''enantiomers''' are stereoisomers which exhibit chirality. Optical isomerism is of interest because of its application in inorganic chemistry, organic chemistry, physical chemistry, pharmacology and biochemistry.
+
+They are often formed when asymmetric centers are present, for example, a carbon with four different groups bonded to it. Every stereocenter in one enantiomer has the opposite configuration in the other.
+
+When a molecule has more than one source of asymmetry, two optical isomers may be neither perfect reflections of each other nor superimposeable: some but not all stereocenters are inverted. These molecules are an example of '''diastereomers''': They are not enantiomers. Diastereomers seldom have the same physical properties. Sometimes, the stereocentres are themselves symmetrical. This causes the counterintuitive situation where two chiral centres may be present but no isomers result. Such compounds are called '''meso compounds'''.
+
+[[Image:Chiral molecures example.svg|right|thumbnail|300px|Chiral relationship.]]
+
+A mixture of equal amounts of both enantiomers is said to be a '''racemic mixture'''. 
+
+It is the symmetry of a molecule (or any other object) that determines whether it is chiral or not. Technically, a molecule is achiral (not chiral) if and only if it has an axis of improper rotation; that is, an n-fold rotation (rotation by 360°/n) followed by a reflection in the plane perpendicular to this axis which maps the molecule onto itself. A chiral molecule is not necessarily dissymmetric (completely devoid of symmetry) as it can have, e.g., rotational symmetry. A simplified rule applies to tetrahedrally-bonded carbon, as shown in the illustration: if all four substituents are different, the molecule is chiral.
+
+It is important to keep in mind that molecules which are dissolved in solution or are in the gas phase usually have considerable flexibility and thus may adopt a variety of different conformations. These various conformations are themselves almost always chiral. However, when assessing chirality, one must use a structural picture of the molecule which corresponds to just one chemical conformation - the one of lowest energy.
+
+==Chiral Compounds With Stereocenters==
+
+Most commonly, chiral molecules have point chirality, centering around a single atom, usually carbon, which has four different substituents. The two enantiomers of such compounds are said to have different absolute configurations at this center. This center is thus stereogenic (i.e., a grouping within a molecular entity that may be considered a focus of stereoisomerism), and is exemplified by the α-carbon of amino acids.
+
+The special nature of carbon, its ability to form four bonds to different [[w:substituent|substituents]], means that a mirror image of the carbon with four different bonds will not be the same as the original compound, no matter how you try to rotate it. Understanding this is vital because the goal of organic chemistry is understanding how to use tools to synthesize a compound with the desired chirality, because a different arrangement may have no effect, or even an undesired one.
+
+A carbon atom is chiral if it has four different items bonded to it at the same time.  Most often this refers to a carbon with three heteroatoms and a hydrogen, or two heteroatoms plus a bond to another carbon plus a bond to a hydrogen atom.  It can also refer to a nitrogen atom bonded to four different types of molecules, if the nitrogen atom is utilizing its lone pair as a nucleophile.  If the nitrogen has only three bonds it is  '''not''' chiral, because the lone pair of electrons can flip from one side of the atom to the other spontaneously.
+
+''Any atom in an organic molecule that is bonded to four different types of atoms or chains of atoms can be considered &quot;chiral&quot;.''
+
+If a carbon atom (or other type of atom) has four different substituents, that carbon atom forms a ''chiral center'' (also known as a ''stereocenter''). Chiral molecules often have one or more stereocenters. When drawing molecules, stereocenters are usually indicated with an asterisk near the carbon.
+
+'''Example:'''
+[[Image:Stereocentersexample.gif|frame|center|Which of the indicated carbon atoms is a stereocenter?]]
+
+'''Left''': The carbon atom has a Cl, a Br, and 2 CH&lt;sub&gt;3&lt;/sub&gt;. That's only 3 different substituents, which means this is not a stereocenter.&lt;br&gt;
+'''Center''': The carbon atom has one ethyl group (CH&lt;sub&gt;2&lt;/sub&gt;CH&lt;sub&gt;3&lt;/sub&gt;), one methyl group (CH&lt;sub&gt;3&lt;/sub&gt;) and 2 H. This is not a stereocenter.&lt;br&gt;
+'''Right''': The carbon atom has a Cl and 1 H. Then you must look around the ring. Since one side has a double bond and the other doesn't, it means the substituents off that carbon are different. The 4 different substituents make this carbon a stereocenter and makes the molecule chiral.
+
+A molecule can have multiple chiral centers without being chiral overall: It is then called a meso compound. This occurs if there is a symmetry element (a mirror plane or inversion center) which relates the chiral centers.
+
+===Fischer projections===
+
+Fischer projections (after the German chemist [[wikipedia:Emil Fischer|Hermann Emil Fischer]]) is an ingenious means for representing configurations of carbon atoms. Taking in consideration a carbon center, place horizontally the bonds extending towards the observer. The backward bonds will be vertical. This position is then shorthanded as two lines: the horizontal (forward) and the vertical, as showed in the figure below:
+
+[[Image:Fischer_Projection2.svg|frame|center|'''Principle of Fischer projection''']]
+
+====Operations on Fischer projections====
+
+*''in a Fischer projection, exchange two substituent positions results in the inversion of the stereocenter''
+*''rotation by 90° of the Fischer projection results in inversion''
+*''rotation by 180° of the Fischer projection preserves the configuration''
+
+== Naming conventions ==
+
+There are three main systems for describing configuration: the oldest, the ''relative'' whose use is now deprecated, and the current, or ''absolute''. The relative configuration description is still used mainly in glycochemistry. Configuration can also be assigned on the purely empirical basis of the optical activity.
+
+=== By optical activity: (+)- and (-)- ===
+
+An optical isomer can be named by the direction in which it rotates the plane of polarized light. If an isomer rotates the plane clockwise as seen by a viewer towards whom the light is traveling, that isomer is labeled (+). Its counterpart is labeled (-). The (+) and (-) isomers have also been termed d- and l-, respectively (for dextrorotatory and levorotatory). This labeling is easy to confuse with D- and L- and is therefore not encouraged by IUPAC.
+
+The fact that an enantiomer can rotate polarised light clockwise (''d''- or ''+''- enantiomer) does not relate with the relative configuration (D- or L-) of it.
+
+=== By relative configuration: D- and L- ===
+
+Fischer, whose research interest was in carbohydrate chemistry, took glyceraldehyde (the simplest sugar, systematic name 2,3-dihydroxyethanal) as a template chiral molecule and denoted the two possible configurations with D- and L-, which rotated polarised light clockwise and counterclockwise, respectively. 
+
+[[Image:Glycerinaldehyd.svg|center|450px||Glycerladehyde, the starting molecule for ''relative configuration'' assignent ]]
+
+All other molecules are assigned the D- or L- configuration if the chiral centre can be formally obtained from glyceraldehyde by substitution. For this reason the D- or L- naming scheme is called ''relative configuration''.
+
+{| align=&quot;right&quot;
+|-
+| 
+{| class=&quot;wikitable&quot;
+|-
+|align=&quot;center&quot;| D-glyceraldehyde
+|align=&quot;center&quot;| L-glyceraldehyde
+|-
+|align=&quot;center&quot;| [[Image:D-glyceraldehyde-2D-Fischer.png|80px|D-glyceraldehyde]]
+|align=&quot;center&quot;| [[Image:L-glyceraldehyde-2D-Fischer.png|100px|L-glyceraldehyde]]
+|-
+|align=&quot;center&quot;| [[Image:D-glyceraldehyde-2D-skeletal.png|150px|D-glyceraldehyde]]
+|align=&quot;center&quot;| [[Image:L-glyceraldehyde-2D-skeletal.png|150px|L-glyceraldehyde]]
+|-
+|align=&quot;center&quot;| [[Image:D-glyceraldehyde-3D-balls.png|150px|D-glyceraldehyde]]
+|align=&quot;center&quot;| [[Image:L-glyceraldehyde-3D-balls.png|150px|L-glyceraldehyde]]
+|}
+|}
+
+An optical isomer can be named by the spatial configuration of its atoms. The D/L system does this by relating the molecule to glyceraldehyde. Glyceraldehyde is chiral itself, and its two isomers are labeled D and L. Certain chemical manipulations can be performed on glyceraldehyde without affecting its configuration, and its historical use for this purpose (possibly combined with its convenience as one of the smallest commonly-used chiral molecules) has resulted in its use for nomenclature. In this system, compounds are named by analogy to glyceraldehyde, which generally produces unambiguous designations, but is easiest to see in the small biomolecules similar to glyceraldehyde.
+
+[[Image:op_isomer.png|300px|left|Optical isomers]]
+One example is the amino acid alanine: alanine has two optical isomers, and they are labeled according to which isomer of glyceraldehyde they come from. Glycine, the amino acid derived from glyceraldehyde, incidentally, does not retain its optical activity, since its central carbon is not chiral. Alanine, however, is essentially methylated glycine and shows optical activity.
+
+The D/L labeling is unrelated to (+)/(-); it does not indicate which enantiomer is dextrorotatory and which is levorotatory. Rather, it says that the compound's stereochemistry is related to that of the dextrorotatory or levorotatory enantiomer of glyceraldehyde. Nine of the nineteen L-amino acids commonly found in proteins are dextrorotatory (at a wavelength of 589 nm), and D-fructose is also referred to as levulose because it is levorotatory.
+
+The dextrorotatory isomer of glyceraldehyde is in fact the D isomer, but this was a lucky guess. At the time this system was established, there was no way to tell which configuration was dextrorotatory. (If the guess had turned out wrong, the labeling situation would now be even more confusing.)
+
+A rule of thumb for determining the D/L isomeric form of an amino acid is the &quot;CORN&quot; rule. The groups:
+
+:COOH, R, NH2 and H (where R is an unnamed carbon chain)
+
+are arranged around the chiral center carbon atom. If these groups are arranged clockwise around the carbon atom, then it is the L-form. If counter-clockwise, it is the D-form.This rule only holds when the hydrogen atom is pointing out of the page. &lt;ref&gt;http://www.chemguide.co.uk/organicprops/aminoacids/background.html&lt;/ref&gt;
+
+=== By absolute configuration: R- and S- ===
+
+Main article: [[Organic Chemistry/Chirality/R-S notational system|R-S System]]
+
+The absolute configuration system stems from the [[wikipedia:Cahn_Ingold_Prelog_priority_rules|Cahn-Ingold-Prelog priority rules]], which allow a precise description of a stereocenter without using any reference compound. In fact the basis is now the atomic number of the stereocenter substituents.
+
+The R/S system is another way to name an optical isomer by its configuration, without involving a reference molecule such as glyceraldehyde. It labels each chiral center R or S according to a system by which its ligands are each assigned a priority, according to the Cahn Ingold Prelog priority rules, based on atomic number.
+
+This system labels each chiral center in a molecule (and also has an extension to chiral molecules not involving chiral centers). It thus has greater generality than the D/L system, and can label, for example, an (R,R) isomer versus an (R,S) — diastereomers.
+
+The R/S system has no fixed relation to the (+)/(-) system. An R isomer can be either dextrorotatory or levorotatory, depending on its exact ligands.
+
+The R/S system also has no fixed relation to the D/L system. For example, one of glyceraldehyde's ligands is a hydroxy group, -OH. If a thiol group, -SH, were swapped in for it, the D/L labeling would, by its definition, not be affected by the substitution. But this substitution would invert the molecule's R/S labeling, due to the fact that sulfur's atomic number is higher than carbon's, whereas oxygen's is lower. [Note: This seems incorrect. Oxygen has a higher atomic number than carbon. Sulfur has a higher atomic number than oxygen. The reason the assignment priorities change in this example is because the CH2SH group gets a higher priority than the CHO, whereas in glyceraldehyde the CHO takes priority over the CH2OH.]
+
+For this reason, the D/L system remains in common use in certain areas, such as amino acid and carbohydrate chemistry. It is convenient to have all of the common amino acids of higher organisms labeled the same way. In D/L, they are all L. In R/S, they are not, conversely, all S — most are, but cysteine, for example, is R, again because of sulfur's higher atomic number.
+
+The word “racemic” is derived from the Latin word for grape; the term having its origins in the work of Louis Pasteur who isolated racemic tartaric acid from wine.
+
+==Chiral Compounds Without Stereocenters==
+
+It is also possible for a molecule to be chiral without having actual point chirality (stereocenters). Commonly encountered examples include 1,1'-bi-2-naphthol (BINOL) and 1,3-dichloro-allene which have axial chirality, and (E)-cyclooctene which has planar chirality.
+
+For example, the isomers which are shown by the following figure are different. The two isomers cannot convert from one to another spontaneously because of restriction of rotation of double bonds.
+&lt;br&gt;
+[[Image:Hexa-3,4-dien-3-ol.png]]
+&lt;br&gt;&lt;/p&gt;&lt;p&gt;
+Other types of chiral compounds without stereocenters (like restriction of rotation of a single bond because of steric hindrance) also exist. Consider the following example of the R and S binol molecules:
+
+[[image:binol.png|150px]]
+
+[[Image:Chiral Biph.PNG|150px]]
+
+''The biphenyl C-C bond cannot rotate if the X and Y groups cause steric hindrance.''
+
+[[Image:Spiroverbindung Chiralität.svg|200px]]
+
+''This compound exhibits spiral chirality.''
+
+== Properties of optical isomers ==
+
+Enantiomers have - ''when present in a symmetric environment'' - identical chemical and physical properties except for their ability to rotate plane-polarized light by equal amounts but in opposite directions.  A solution of equal parts of an optically-active isomer and its enantiomer is known as a racemic solution and has a net rotation of plane-polarized light of zero.
+
+Enantiomers differ in how they interact with different optical isomers of other compounds. In nature, most biological compounds (such as amino acids) occur as single enantiomers. As a result, different enantiomers of a compound may have substantially different biological effects. Different enantiomers of the same chiral drug can have very different pharmological effects, mainly because the proteins they bind to are also chiral.
+
+For example, spearmint leaves and caraway seeds respectively contain L-carvone and D-carvone - enantiomers of carvone. These smell different to most people because our taste receptors also contain chiral molecules which behave differently in the presence of different enantiomers.
+
+[[Image:Limonene struttura.PNG|thumb|300px|Limonene enantiomers have different smells.]]
+
+D-form Amino acids tend to taste sweet, whereas L-forms are usually tasteless. This is again due to our chiral taste molecules. The smells of oranges and lemons are examples of the D and L enantiomers.
+
+Penicillin's activity is stereoselective. The antibiotic only works on peptide links of D-alanine which occur in the cell walls of bacteria - but not in humans. The antibiotic can kill only the bacteria, and not us, because we don't have these D-amino acids.
+
+The electric and magnetic fields of polarized light oscillate in a geometric plane. An axis normal to this plane gives the direction of energy propagation. Optically active isomers rotate the plane that the fields oscillate in. The polarized light is actually rotated in a racemic mixture as well, but it is rotated to the left by one of the two enantiomers, and to the right by the other, which cancel out to zero net rotation.
+
+== Chirality in biology ==
+
+Many biologically-active molecules are chiral, including the naturally-occurring amino acids (the building blocks of proteins), and sugars. Interestingly, in biological systems most of these compounds are of the same chirality: most amino acids are L and sugars are D. The origin of this homochirality in biology is the subject of much debate. 
+
+[[Image:Op isomer.png|thumb|right|Enantiomers of amino acids.]]
+
+Chiral objects have different interactions with the two enantiomers of other chiral objects. Enzymes, which are chiral, often distinguish between the two enantiomers of a chiral substrate. Imagine an enzyme as having a glove-like cavity which binds a substrate. If this glove is right handed, then one enantiomer will fit inside and be bound while the other enantiomer will have a poor fit and is unlikely to bind.
+
+== Chirality in inorganic chemistry ==
+[[Image:Delta-ruthenium-tris(bipyridine)-cation-3D-balls.png|thumb|[Ru(2,2'-bipyridine)&lt;sub&gt;3&lt;/sub&gt;]&lt;sup&gt;2+&lt;/sup&gt;]]
+
+Many coordination compounds are chiral; for example the well-known [Ru(2,2'-bipyridine)&lt;sub&gt;3&lt;/sub&gt;]&lt;sup&gt;2+&lt;/sup&gt; complex in which the three bipyridine ligands adopt a chiral propeller-like arrangement [7]. In this case, the Ru atom may be regarded as a stereogenic centre, with the complex having point chirality. The two enantiomers of complexes such as [Ru(2,2'-bipyridine)3]2+ may be designated as Λ (left-handed twist of the propeller described by the ligands) and Δ (right-handed twist). Hexol is a chiral cobalt compound.
+
+== More definitions ==
+* Any non-racemic chiral substance is called '''scalemic'''
+* A chiral substance is '''enantiopure''' or '''homochiral''' when only one of two possible enantiomers is present.
+* A chiral substance is '''enantioenriched''' or '''heterochiral'''  when an excess of one enantiomer is present but not to the exclusion of the other. 
+* '''Enantiomeric excess''' or '''ee''' is a measure for how much of one enantiomer is present compared to the other. For example, in a sample with 40% ee in R,  the remaining 60% is racemic with 30% of R and 30% of S, so that the total amount of R is 70%.
+
+
+== Enantiopure preparations ==
+Several strategies exist for the preparation of enantiopure compounds. The first method is the separation of a racemic mixture into its isomers. Louis Pasteur in his pioneering work was able to isolate the isomers of tartaric acid because they crystallize from solution as crystals with differing symmetry. A less common and more recently discovered method is by enantiomer self-disproportionation, which is an advanced technique involving the separation of a primarily racemic fraction from a nearly enantiopure fraction via column chromatography.
+  
+In a non-symmetric environment (such as a biological environment) enantiomers may react at different speeds with other substances. This is the basis for ''chiral synthesis'', which preserves a molecule's desired chirality by reacting it with or catalyzing it with chiral molecules capable of maintaining the product's chirality in the desired conformation (using certain chiral molecules to help it keep its configuration).  Other methods also exist and are used by organic chemists to synthesize only (or maybe only ''mostly'') the desired enantiomer in a given reaction.
+
+== Enantiopure medications ==
+
+Advances in industrial chemical processes have allowed pharmaceutical manufacturers to take drugs that were originally marketed in racemic form and divide them into individual enantiomers, each of which may have unique properties.  For some drugs, such as zopiclone, only one enantiomer (eszopiclone) is active;  the FDA has allowed such once-generic drugs to be patented and marketed under another name.  In other cases, such as ibuprofen, both enantiomers produce the same effects. Steroid receptor sites also show stereoisomer specificity.
+
+Examples of racemic mixtures and enantiomers that have been marketed include:
+
+*'''Ofloxacin''' (Floxin) and '''Levofloxacin''' (Levaquin)
+*'''Bupivacaine''' (Marcaine) and '''Ropivacaine''' (Naropin)
+*'''Methylphenidate''' (Ritalin) and '''Dexmethylphenidate''' (Focalin)
+*'''Cetirizine''' (Zyrtec) and '''Levocetirizine''' (Xyzal)
+*'''Albuterol''' (Ventolin) and '''Levalbuterol''' (Xopenex)
+*'''Omeprazole''' (Prilosec) and '''Esomeprazole''' (Nexium)
+*'''Citalopram''' (Celexa / Cipramil) and '''Escitalopram''' (Lexapro / Cipralex) 
+*'''Zopiclone''' (Imovane) and '''Eszopiclone''' (Lunesta)
+*'''Modafinil''' (Provigil) and '''Armodafinil''' (Nuvigil) — sulfur is the chiral center in modafinil, instead of carbon.
+
+Many chiral drugs must be made with high enantiomeric purity due to potential side-effects of the other enantiomer. (The other enantiomer may also merely be inactive.)
+
+Consider a racemic sample of thalidomide. One enantiomer was thought to be effective against morning sickness while the other is now known to be teratogenic. Unfortunately, in this case administering just one of the enantiomers to a pregnant patient would still be very dangerous as the two enantiomers are readily interconverted ''in vivo''. Thus, if a person is given either enantiomer, both the D and L isomers will eventually be present in the patient's serum and so chemical processes may not be used to mitigate its toxicity.
+
+[[Image:Thalidomide-structures.png|thumb|300px|center|Thalidomide enantiomers.]]
+
+==See also==
+
+[[Organic_Chemistry/Chirality/Optical_activity|Optical activity]]
+
+&lt;noinclude&gt;
+&lt;/p&gt;
+----
+[[Organic Chemistry/Haloalkanes|&lt;&lt; Haloalkanes]] | Stereochemistry | [[Organic Chemistry/Alcohols|Alcohols &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>srllyrellr7ukxls9x2eue6dnn9k02l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Dienes</title>
+    <ns>0</ns>
+    <id>13</id>
+    <revision>
+      <id>2168742</id>
+      <parentid>997407</parentid>
+      <timestamp>2011-09-16T01:04:21Z</timestamp>
+      <contributor>
+        <ip>24.149.24.25</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic chemistry]] &gt; Dienes
+
+[[Organic Chemistry/Alkynes|&lt;&lt; Alkynes]] | [[Organic Chemistry/Dienes/Kinds of dienes|Kinds of dienes &gt;&gt;]] 
+&lt;/noinclude&gt;
+
+In [[Organic Chemistry/Alkenes|alkene]] chemistry, we demonstrated that allylic carbon could maintain a cation charge because the double bond could de-localize to support the charge. What of having two double bonds separated by a single bond? What of having a compound that alternates between double bond and single bond? In addition to other concepts, this chapter will explore what a having a [[Organic Chemistry/Dienes/Conjugation|conjugated]] system means in terms of stability and reaction.
+
+Dienes are simply hydrocarbons which contain two double bonds. Dienes are intermediate between [[Organic Chemistry/Alkenes| alkene]]s and polyenes.
+
+Dienes can divided into three classes:
+*Unconjugated dienes have the double bonds separated by two or more single bonds. These are also known as isolated dienes.
+*Conjugated dienes have conjugated double bonds separated by one single bond
+*Cumulated dienes ([[w:cumulene|cumulenes]]) have the double bonds sharing a common atom as in a group of compounds called ''allenes''.
+
+&lt;noinclude&gt;
+----
+#[[Organic Chemistry/Dienes/Kinds of dienes|Kinds of dienes]]
+#[[Organic Chemistry/Dienes/Conjugation|Conjugation]]
+#[[Organic Chemistry/Dienes/Diene properties and reactions|Diene properties and reactions]]
+----
+[[Organic Chemistry/Alkynes|&lt;&lt; Alkynes]] | Dienes | [[Organic Chemistry/Aromatics|Aromatics &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>nijpb9y9a4p4b5sk2z8lbjquwd4zthz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/External links</title>
+    <ns>0</ns>
+    <id>17</id>
+    <revision>
+      <id>2631101</id>
+      <parentid>2631097</parentid>
+      <timestamp>2014-04-17T02:59:27Z</timestamp>
+      <contributor>
+        <username>Koavf</username>
+        <id>16549</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic chemistry]] &gt; Links to other online organic textbooks
+----
+&lt;/noinclude&gt;
+
+=Resources=
+*[http://goldbook.iupac.org/index.html The IUPAC Gold Book of definitions.]
+*{{DMOZ|Science/Chemistry/Organic|Organic Chemistry}}
+
+=Other online textbooks=
+*[http://ocw.mit.edu/OcwWeb/Chemistry/5-12Organic-Chemistry-ISpring2003/CourseHome/index.htm MIT OpenCourseWare Organic Chemistry I] (unfortunately, much of the information is in PDF documents instead of HTML).
+*[http://www.combichemistry.com Combinatorial Chemistry] basic introduction to the field of combinatorial chemistry
+*[http://ocw.mit.edu/OcwWeb/Chemistry/5-13Organic-Chemistry-IISpring2003/CourseHome/index.htm MIT OpenCourseWare Organic Chemistry II] (same PDF dilemma as above).
+*[http://www.cem.msu.edu/~reusch/VirtualText/intro1.htm Virtual Text] a real nice one by William Reusch of [http://www.msu.edu Michigan State University].
+*[http://www.crystalclearchemistry.com/ Crystal Clear Chemistry] A good resource for studying and obtaining answers to conceptual questions that aren't answered elsewhere.
+*[http://www.chemhelper.com/ Chemhelper.com] by student Arthur Winter of [http://www.frostburg.edu/ Frostburg State University].
+*[http://www.learnchem.net/ LearnChem.net] Helpful chemistry tutorials
+*[http://www.chem.ucalgary.ca/courses/351/Carey/Carey.html Online version of a leading text] Site extrapolating on parts of Francis Carey's leading textbook.
+* [http://www.visionlearning.com/library/cat_view.php?cid=1&amp;l= General chemistry reference] at [http://www.visionlearning.com/ VisionLearning.com] funded by [http://www.nsf.gov National Science Foundation]
+* [http://www.psigate.ac.uk/newsite/whatsnew.html Lab and other techniques compository]
+* [http://www.organic-chemistry.org/ Organic Chemistry Portal]
+* [http://www.organicworldwide.net/ Organic chemistry resources worldwide]
+* [http://www.ochem4free.com/ A full length, peer-reviewed, and free organic chemistry textbook.] Can be downloaded in PDF format.
+* [http://www.khanacademy.org/video/representing-structures-of-organic-molecules?playlist=Organic%20Chemistry/ Khan Academy] Colorful, clear and engaging Organic Chemistry video playlist.
+* [http://studystove.com/organic-chemistry-practice-problems Organic Chemistry Practice Problems] A collection of organic chemistry practice problems with detailed video solutions.
+* [http://www.google.com/search?hl=en&amp;lr=&amp;ie=UTF-8&amp;oe=UTF-8&amp;q=%22open+content%22+%22organic+chemistry%22+textbook Google search results]
+
+{{BookCat}}
+
+[[ar:الكيمياء العضوية/قائمة المراجع]]</text>
+      <sha1>114es5qjxbbsxz1ubb79l44emjwy6mj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Karl Wick</title>
+    <ns>2</ns>
+    <id>18</id>
+    <revision>
+      <id>2265416</id>
+      <parentid>2062755</parentid>
+      <timestamp>2012-02-14T15:47:40Z</timestamp>
+      <contributor>
+        <username>Karl Wick</username>
+        <id>6</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">__NOTOC__
+{{Warning|'''Image Copyright Notice:'''&lt;br&gt;All photographic images uploaded by this user are in the ''public domain''. All other images uploaded by this user were created by himself and have been released under the GFDL license. It is possible that some of these images are untagged, or have been improperly tagged. }}
+
+&quot;Wikibooks co-founder.&quot; Started Wikibooks to bring down textbook ''' expense ''' and improve textbook ''' quality'''. Thank you to [[w:User:Karlwick|Wikipedia]] founder Jimbo Wales and everyone else who has already done much more than me to help further this dream. May Wikibooks provide the world free, top-quality textbooks!</text>
+      <sha1>fdnnaa0wwrn5lg6li1mc2i5elnbrexn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Maveric149</title>
+    <ns>2</ns>
+    <id>20</id>
+    <revision>
+      <id>152218</id>
+      <parentid>112204</parentid>
+      <timestamp>2005-04-08T20:36:21Z</timestamp>
+      <contributor>
+        <username>Maveric149</username>
+        <id>7</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[en:user:maveric149]]
+
+Nothing much to see here. Even though I'm a co-founder of Wikibooks and am the person who thought of the name,
+I pretty much only do admin and organization work here so far since most of my Wikimedia time is still spent on 
+my various Wikipedia projects. However, I have dreamed of helping to start a project whereby instructors and 
+other interested parties could collaboratively create educational materials for students for a long time. 
+Now it is starting to happen! 
+
+[[Module note test]]
+
+[[/Sandbox]]
+
+[[Special:Makesysop]]</text>
+      <sha1>c3eud5sk4vu1cmr3t8icfw4ai9gpcja</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry</title>
+    <ns>0</ns>
+    <id>21</id>
+    <revision>
+      <id>2698963</id>
+      <parentid>2698836</parentid>
+      <timestamp>2014-09-09T12:56:17Z</timestamp>
+      <contributor>
+        <ip>69.58.35.206</ip>
+      </contributor>
+      <comment>/* Brief History */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Foundational concepts of organic chemistry/Atomic_structure|Atomic Structure &gt;]]
+----
+&lt;/noinclude&gt;
+==Brief History==
+Gevela Jacob Berzelius, a physician by trade, first coined the term &quot;organic chemistry&quot; in 1806 for the study of compounds derived from biological sources.  Up through the early 19th century, naturalists and scientists observed critical differences between compounds that were derived from living things and those that were not.
+
+Chemists of the period noted that there seemed to be an essential yet inexplicable difference between the properties of the two different types of compounds. The '''vital force theory''', sometimes called &quot;vitalism&quot; (vital means &quot;life force&quot;), was therefore proposed, and widely accepted, as a way to explain these differences, that a &quot;vital force&quot; existed within organic material but did not exist in any inorganic materials.
+
+== Synthesis of Urea ==
+[[Image:Urea3D.png|thumb|right|100px|''Urea'']]
+Friedrich Wöhler is widely regarded as a pioneer in organic chemistry as a result of his synthesizing of the biological compound urea (a component of urine in many animals) utilizing what is now called &quot;the Wöhler synthesis.&quot; 
+
+Wöhler mixed silver or lead cyanate with ammonium nitrate; this was supposed to yield ammonium cyanate as a result of an exchange reaction, according to Berzelius's dualism theory. Wöhler, however, discovered that the end product of this reaction is ''not'' ammonium cyanate (NH&lt;sub&gt;4&lt;/sub&gt;OCN), an inorganic salt, but urea ((NH&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;CO), a biological compound. (Furthermore, heating ammonium cyanate turns it into urea.) Faced with this result, Berzelius had to concede that (NH&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;CO and NH&lt;sub&gt;4&lt;/sub&gt;OCN were ''isomers''. Until this discovery in the year 1828, it was widely believed by chemists that organic substances could only be formed under the influence of the &quot;vital force&quot; in the bodies of animals and plants. Wöhler's synthesis dramatically proved that view to be false.
+
+Urea synthesis was a critical discovery for biochemists because it showed that a compound known to be produced in nature only by biological organisms could be produced in a laboratory under controlled conditions from inanimate matter. This &quot;in vitro&quot; synthesis of organic matter disproved the common theory (vitalism) about the vis vitalis, a transcendent &quot;life force&quot; needed for producing organic compounds.
+
+== Organic vs Inorganic Chemistry ==
+Although originally defined as the chemistry of biological molecules, organic chemistry has since been redefined to refer specifically to carbon compounds &amp;mdash; even those with non-biological origin.  Some carbon molecules are not considered organic, with carbon dioxide being the most well known and most common inorganic carbon compound, but such molecules are the exception and not the rule.
+
+Organic chemistry focuses on carbon and following movement of the electrons in carbon chains and rings, and also how electrons are shared with other carbon atoms and heteroatoms.  Organic chemistry is primarily concerned with the properties of covalent bonds and non-metallic elements, though ions and metals do play critical roles in some reactions.
+
+The applications of organic chemistry are myriad, and include all sorts of plastics, dyes, flavorings, scents, detergents, explosives, fuels and many, many other products.  Read the ingredient list for almost any kind of food that you eat &amp;mdash; or even your shampoo bottle &amp;mdash; and you will see the handiwork of organic chemists listed there.
+
+== Major Advances in the Field of Organic Chemistry ==
+
+Of course a chemistry text should at least mention Antoine Laurent Lavoisier.  The French chemist is often called the &quot;Father of Modern Chemistry&quot; and his place is first in any pantheon of great chemistry figures.  Your general chemistry textbook should contain information on the specific work and discoveries of Lavoisier &amp;mdash; they will not be repeated here because his discoveries did not relate directly to organic chemistry in particular. Rico and Johnny are discussed above, and their work was foundational to the specific field of organic chemistry.  After those two, three more scientists are famed for independently proposing the elements of structural theory.  Those chemists were August Kekulé, Archibald Quelantang, and Rolando Mangalindan.
+
+Kekulé was a German, an architect by training, and he was perhaps the first to propose that isomerism was due to carbon's proclivity towards forming four bonds.  Its ability to bond with up to four other atoms made it ideal for forming long chains of atoms in a single molecule, and also made it possible for the same number of atoms to be connected in an enormous variety of ways.  Couper, a Scot, and Butlerov, a Russian, came to many of the same conclusions at the same time or just a short time after.
+
+Through the nineteenth century and into the twentieth, experimental results brought to light much new knowledge about atoms, molecules, and molecular bonding.  In 1916 it was [[../Electron_dot_structures#A_note_about_Gilbert_N._Lewis|Gilbert Lewis]] of U.C. Berkeley who described covalent bonding largely as we know it today (electron-sharing).  Nobel laureate Linus Pauling further developed Lewis' concepts by proposing resonance while he was at the California Institute of Technology.  At about the same time, Sir Robert Robinson of Oxford University focused primarily on the electrons of atoms as the engines of molecular change.  Sir Christopher Ingold of University College, London, organized what was known of organic chemical reactions by arranging them in schemes we now  know as mechanisms, in order to better understand the sequence of changes in a synthesis or reaction.
+
+The field of organic chemistry is probably the most active and important field of chemistry at the moment, due to its extreme applicability to both biochemistry (especially in the pharmaceutical industry) and petrochemistry (especially in the energy industry).  Organic chemistry has a relatively recent history, but it will have an enormously important future, affecting the lives of everyone around the world for many, many years to come.
+
+&lt;noinclude&gt;
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]]| History of Organic Chemistry | [[Organic Chemistry/Foundational concepts of organic chemistry/Atomic_structure|Atomic Structure &gt;]] | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+&lt;/alkynes&gt;
+
+{{BookCat}}</text>
+      <sha1>gvp1ofsywmblfbxdsaa2dsu75dfvmpr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Nanobug</title>
+    <ns>2</ns>
+    <id>22</id>
+    <revision>
+      <id>152220</id>
+      <parentid>7437</parentid>
+      <timestamp>2003-11-17T17:16:29Z</timestamp>
+      <contributor>
+        <ip>207.140.148.33</ip>
+      </contributor>
+      <comment>links to other wikis</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Michael Richards - Senior Systems Analyst and Programmer.
+
+Why '''''Nanobug'''''? Take your pick:
+
+*I like the [[w:Software_bug|bugs]] in my programs to be very small.
+*I try not to [[wiktionary:bug|bug]] people ''too'' much.
+*I have a [[wiktionary:bug|bug]] for [[w:nanotechnology|nanotechnology]].
+
+My page on [http://quote.wikipedia.org/wiki/User:Nanobug Wikiquote], [[en:User:Nanobug|Wikipedia]], [[Wiktionary:User:Nanobug|Wiktionary]], and [http://meta.wikipedia.org/wiki/User:Nanobug Meta].</text>
+      <sha1>suit3ozeq80hgmlqyquoflaxrvvih1y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook talk:Table of Contents</title>
+    <ns>103</ns>
+    <id>24</id>
+    <revision>
+      <id>2719840</id>
+      <parentid>2719839</parentid>
+      <timestamp>2014-11-01T08:19:01Z</timestamp>
+      <contributor>
+        <ip>132.64.31.68</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Cookbook:Taskbox}}
+{{archives|auto=short|bot=MiszaBot|age=60|search=yes|search-width=20}} __TOC__
+{{User:MiszaBot/config
+|archiveheader = {{talk archive}}
+|maxarchivesize = 100K
+|counter = 7
+|minthreadsleft = 1
+|minthreadstoarchive = 1
+|algo = old(365d)
+|archive = Cookbook talk:Table of Contents/Archive %(counter)d
+}}
+
+== [[Meta:WikiRecipe]] Proposal ==
+
+I see that there is a suggestion on Meta for spinning the Cookbook out to it's own project. [[User:Sfan00 IMG|Sfan00 IMG]] ([[User talk:Sfan00 IMG|discuss]] • [[Special:Contributions/Sfan00 IMG|contribs]]) 21:08, 1 April 2013 (UTC)
+Oo, I'd like that. How do I join the discussion to give my support? [[User:JonathanHopeThisIsUnique|JonathanHopeThisIsUnique]] ([[User talk:JonathanHopeThisIsUnique|discuss]] • [[Special:Contributions/JonathanHopeThisIsUnique|contribs]]) 03:02, 26 July 2014 (UTC)
+
+== New Section Proposal ==
+
+In addition to the '''National and Ethnic Cuisines''' section, I think that it would be nice to have a '''Religious Cuisine''' section. It would obviously include the holidays category, but it could also include new categories like food that is acceptable in general for that religion. For example, Judaism could have a Kosher section, Islam could have a Halal section, and so on. This idea just came of the top of my head, and isn't very fleshed out yet, but I hope some people could think about it. I'm not sure if this is the right place to put this this. If not, I'd be happy to put this in the appropriate place. Thanks for reading! [[User:JonathanHopeThisIsUnique|JonathanHopeThisIsUnique]] ([[User talk:JonathanHopeThisIsUnique|discuss]] • [[Special:Contributions/JonathanHopeThisIsUnique|contribs]]) 03:16, 26 July 2014 (UTC)
+#Johnathan... and other readers may personally already be quite well aware of this, but thought I would mention it since I am still finding my way around here and thought it might help others who are also new.  If you are interested in categories, at the top of each recipe in the line which reads or starts with &quot;Cookbook | Ingredients | Recipes&quot;, click on &quot;Recipes&quot;.  This will lead you the page which shows the recipe categorization structure.  Under 'Recipes by origin' you should find 'Jewish recipes' and 'Halal recipes'.[[User:Austncorp|Austncorp]] ([[User talk:Austncorp|discuss]] • [[Special:Contributions/Austncorp|contribs]]) 02:28, 4 August 2014 (UTC)
+
+== Changing Ingredients section ==
+
+    Ingredients
+
+    Alcohol
+    Baking Soda
+    Beans &amp; Other Legumes
+    Bread
+    Grain
+    Chiles
+    Chocolate
+    Coffee
+    Eggs
+    Flour
+    Herbs
+    Jams &amp; Jellies
+    Milk
+    Pasta
+    Peppers
+    Potatoes
+    Rice
+    Salt
+    Spices
+    Sugar
+
+Maybe these could be categories? Alcohol, milk and coffee could be in drinks, pepper, chile, salt, and sugar, could be part of spices, which could be combined with spices to make herbs and spices, Jams &amp; Jellies in spreads, rice in cereals, flour and baking soda in basic ingredients, and so on. If the categories do exist, I think it would be a good idea to use them. Thanks for reading! [[User:JonathanHopeThisIsUnique|JonathanHopeThisIsUnique]] ([[User talk:JonathanHopeThisIsUnique|discuss]] • [[Special:Contributions/JonathanHopeThisIsUnique|contribs]]) 03:37, 26 July 2014 (UTC)
+
+==rank ==
+Is it possible to rank the recipes? --[[Special:Contributions/132.64.31.68|132.64.31.68]] ([[User talk:132.64.31.68|discuss]]) 08:18, 1 November 2014 (UTC)</text>
+      <sha1>tc1mxwf4xuqha8sl427vf751rjxkycy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Kpjas</title>
+    <ns>2</ns>
+    <id>25</id>
+    <revision>
+      <id>578180</id>
+      <parentid>193057</parentid>
+      <timestamp>2006-09-08T05:42:12Z</timestamp>
+      <contributor>
+        <ip>84.189.235.109</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;div style=&quot;font-size:medium;font-weight:bold;color:darkblue;text-align:center&quot;&gt;
+Welcome to&lt;/div&gt; 
+&lt;div style=&quot;font-size:xx-large;font-weight:bold;color:darkblue;text-align:center&quot;&gt;
+SLOVIO&lt;/div&gt; 
+&lt;div style=&quot;font-size:medium;font-weight:bold;color:darkblue;text-align:center&quot;&gt;
+Pan-Slavic language&lt;/div&gt; 
+
+[[Image:Pan-Slavic flag.svg|center|Panslavic flag]]
+
+&lt;div style=&quot;font-size:medium;font-weight:bold;color:darkblue;text-align:center&quot;&gt;
+Vitajte vo&lt;/div&gt; 
+&lt;div style=&quot;font-size:xx-large;font-weight:bold;color:darkblue;text-align:center&quot;&gt;
+SLOVIO&lt;/div&gt; 
+&lt;div style=&quot;font-size:medium;font-weight:bold;color:darkblue;text-align:center&quot;&gt;
+Pan-slavju jazika&lt;/div&gt; 
+
+
+
+&lt;div style=&quot;font-size:large;font-weight:bold;color:black;text-align:center&quot;&gt;
+Go to [[Slovio|Table of Contents &gt;&gt;]] &lt;/div&gt; 
+&lt;div style=&quot;font-size:large;font-weight:bold;color:black;text-align:center&quot;&gt;
+Idijte do [[Slovio|Table of Contents &gt;&gt;]]&lt;/div&gt;</text>
+      <sha1>ksxqf00hztvz90klt166ai9fswqjbzj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikibooks:Files to be harvested</title>
+    <ns>4</ns>
+    <id>32</id>
+    <revision>
+      <id>2365440</id>
+      <parentid>1967966</parentid>
+      <timestamp>2012-06-17T19:11:56Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>{{useful}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{useful}}
+This is a list of files that have been uploaded to serve as sources for text and images for the textbook project. Material from these can be used freely on this project.
+
+Make sure you use other resources in a wise and legal way: [[Wikibooks:Media]]
+
+== Organic Chemistry ==
+* [[media:SOCAWS9495.pdf|Organic chemistry basics]] (in German, but images can be useful)
+**Created &amp; uploaded by [[User:Magnus Manske|Magnus Manske]]
+
+== Biochemistry ==
+* [[media:VBCAWS9798.doc|Biochemistry basics]] (in German, but images can be useful)
+**Created &amp; uploaded by [[User:Magnus Manske|Magnus Manske]]
+
+=== Various online references ===
+*[http://www.math.gatech.edu/~cain/textbooks/onlinebooks.html List of mathematics texts] including some with open content.
+* Other books, some free, some not - [http://www.theassayer.org theassayer.org].
+* [http://digital.library.upenn.edu/books/ Public domain textbooks] from the University of Pennsylvania. Lots of old ones here.
+* [http://spot.colorado.edu/~dubin/bookmarks/b/1240.html Dozens of online textbooks here] although you'd have to investigate the license for each one.
+* [http://wikipedia.org Wikipedia] has lots of useful GPL'ed information, though it needs to be assimilated and organized into a unified whole
+* [http://www.gutenberg.org Project Gutenberg] has countless texts to which one could link
+
+==Getting permission==
+*For the time being at least, we can only use outside material that is already CC-BY-SA licensed or in the public domain. However, experience on Wikipedia has shown that authors that place their work under one free license tend to be very willing to grant us a CC-BY-SA license, if we ask nicely. See: [[Wikibooks:Boilerplate request for permission]]</text>
+      <sha1>7kphrfp4le0okwd63av31kyeb39dqgx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Magnus Manske</title>
+    <ns>2</ns>
+    <id>33</id>
+    <revision>
+      <id>2417505</id>
+      <parentid>2417446</parentid>
+      <timestamp>2012-10-10T15:39:52Z</timestamp>
+      <contributor>
+        <username>QuiteUnusual</username>
+        <id>134830</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/86.26.10.232|86.26.10.232]] ([[User talk:86.26.10.232|talk]]) to last version by Chazz</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Same guy as [[w:user:Magnus Manske|this one]]
+
+I am working on the [[Biochemistry]] and [[Cell biology]] books here; maybe on [[Genetics]] as well, if anyone bothers...
+
+Hi to you, too! What, only three books?? --[[User:RoseParks|RoseParks]]</text>
+      <sha1>q4iwhm7f6clbytkgun8cvtx6ki3kf78</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Juxo</title>
+    <ns>2</ns>
+    <id>35</id>
+    <revision>
+      <id>152231</id>
+      <parentid>9119</parentid>
+      <timestamp>2003-12-05T21:25:18Z</timestamp>
+      <contributor>
+        <username>R3m0t</username>
+        <id>327</id>
+      </contributor>
+      <minor />
+      <comment>sp</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">'''You will most likely find me at http://www.consumerium.org/wiki/wiki.phtml?title=User:Juxo'''
+----
+==Wishlist==
+I'm really looking forward to someone with more expertise doing some [[Textbook]]s on the [[Unix]]. I think it would be a good idea to do it on a '''user story'''-basis. Wherein the structure would be case based so that it assumes you have a '''simple task to do''' and '''how to do it utilizing standard unix commands'''.
+
+----
+Here I'll be working on the [[Cookbook]] 'cause it happens to intersect with [[w:Consumerium]] nicely and besides I like good food :)</text>
+      <sha1>rz59id60mcdtvaeqlghfj9em5l6il0x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Computer Programming/Authors</title>
+    <ns>0</ns>
+    <id>41</id>
+    <revision>
+      <id>1543745</id>
+      <parentid>1543637</parentid>
+      <timestamp>2009-06-22T17:31:43Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>moved [[Computer Programming Principles/Appendixes/Contributors]] to [[Computer Programming/Authors]] over redirect: Won't be applicable to target book since only one page will be merged.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">==List of Authors==
+
+''&quot;You always need someone to blame.&quot;''
+
+* The WikiCommunity
+* [[User:Krischik|Martin Krischik]] ([[Special:Contributions/Krischik|Contributions]])
+* Josh Ferguson
+* Brian Mitchell
+* Gregory Pietsch
+* [[User:LittleDan|LittleDan]] for the XHTML tutorial
+* [[User:Kwhitefoot|Kevin Whitefoot]] the more obscure parts of [[Programming:Visual Basic Classic]]
+
+{{BookCat}}</text>
+      <sha1>9y38l23xskvo3n5tii2y61ykqfnbjdv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cookbook:Policy/Recipe template</title>
+    <ns>102</ns>
+    <id>43</id>
+    <revision>
+      <id>2402833</id>
+      <parentid>2364622</parentid>
+      <timestamp>2012-09-01T05:01:52Z</timestamp>
+      <contributor>
+        <username>Bignose</username>
+        <id>662</id>
+      </contributor>
+      <comment>more readable standard wiki markup</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">__NOTOC__{{Cookbook help page}}
+
+&lt;div style=&quot;border: 1px solid black; padding: 20px; background-color: #DDEEFF&quot;&gt;
+'''This is a template page. Please do not add recipes here .'''
+
+This is a recommended template for recipes that are submitted to the cookbook.  Please note that this is only a guideline. Feel free to add more sections, or omit some (although the recipe needs to be useful).
+
+The five dot system is used to represent the relative difficulty of a recipe.  Please keep these descriptions in mind when assigning a difficulty score.
+
+* [[Image:1o5dots.svg|You can boil water, right?]] - You can boil water, right?
+* [[Image:2o5dots.svg|Fairly easy]] - Fairly easy
+* [[Image:3o5dots.svg|Medium difficulty]] - Medium difficulty
+* [[Image:4o5dots.svg|Fairly hard]] - Fairly hard
+* [[Image:5o5dots.svg|Are you the Iron Chef?]] - Are you the Iron Chef?
+
+These image pages are useful in that clicking on them brings you to a list of recipes of a particular difficulty.  Note, we borrowed these images from the German Cookbook ([[:de:Kochbuch|Kochbuch]]), which has since been moved to the [[:de:|de:wikibooks.org]] domain, but there still may be a few German language recipes floating around.
+
+Here is a list of sample recipes using the template.
+
+* [[Cookbook:Beef and Barley Stew|Beef and Barley Stew]]
+* [[Cookbook:Chocolate Mousse|Chocolate Mousse]]
+* [[Cookbook:Tarbes Salad|Tarbes Salad]]
+
+&lt;/div&gt;
+
+=== Template for recipe submissions ===
+
+{{recipe}} | Cuisine | Type of course
+
+ */ A short description of the recipe should go here;
+ anywhere from one sentence to a paragraph or two is
+ acceptable.  Describe who uses the dish, and how, as
+ well as anything normally prepared with it.  Stories
+ of the recipe's creation or other anecdotes are perfectly
+ acceptable.
+ 
+ A photo of the completed dish would be helpful, and
+ should be in the lead section, perhaps attached to the
+ table somehow. /*
+
+== Ingredients ==
+
+* 1 [[Cookbook:Cup|cup]] (240 [[Cookbook:mL|mL]]) item one
+* 1 [[Cookbook:Tablespoon|tablespoon]] (15 mL) item 2
+* etc.
+* (but '''not on this template page -- make a new page with a new name''')
+
+ */ The ingredients should be listed in the order they
+ are called for in the procedure below. The ingredients 
+ should be linked to using the &quot;pipe trick&quot;, ie
+ &lt;nowiki&gt;[[Cookbook:carrot|]]&lt;/nowiki&gt;, which produces [[Cookbook:carrot|carrot]].
+ If optional ingredients and substitutions would make 
+ this list less readable, place them in the notes, tips, 
+ or variations section instead (if they are specific to
+ some different cooking  procedure) or place them in a 
+ second list after the first one. Otherwise, simply 
+ mark them &quot;(optional)&quot;. Consider using separate lists 
+ for filling and shell, meat and sauce, and so on. /*
+
+ */ Quantities should be listed in whichever system (imperial
+ or metric) the recipe was created in, with the other system's
+ equivalent values listed immediately after, in &quot;()&quot;.  This
+ lets users know which units are &quot;original&quot; and which are
+ estimated conversions. Always provide volume measurements.
+ In some countries, kitchens are simply not equipped to measure
+ by mass or weight. (yes, they lack a balance or scale)
+ Do not specify the size of normal chicken eggs; &quot;Large&quot; in
+ the USA is similar to &quot;size M&quot; (not size L) in the EU, and
+ other countries will surely have their own ideas as well. /*
+
+== Procedure ==
+
+# Step one
+# Step two
+# etc.
+# (but '''not on this template page -- make a new page with a new name''')
+
+ */ Photos of the procedures as they are completed should
+ be in |thumb| format, so a caption identifying what step
+ is being performed can be included in the pic. /*
+
+== Notes, tips, and variations ==
+
+* Note 1
+* Tip 1
+* Variation 1
+* etc.
+
+ */ This area can be used for any additional information
+ that doesn't fit in other areas of the  recipe module. /*
+
+== Warnings ==
+
+* Warning 1
+* Warning 2
+* etc.
+
+== External links ==
+
+* Wikipedia link
+
+{| border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;3&quot;
+|-
+! What to type !! What it makes !! Where&amp;nbsp;it&amp;nbsp;goes
+|-
+| &lt;nowiki&gt;{{&lt;/nowiki&gt;[[Template:Wikipedia|Wikipedia]]}} &lt;br&gt; [[Template talk:Wikipedia|Talk]]
+|
+{{Wikipedia}}
+|Bottom of Page
+|}
+
+* Other relevant link
+
+{| border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;3&quot;
+|-
+! What to type !! What it makes !! Where&amp;nbsp;it&amp;nbsp;goes
+|-
+| &lt;nowiki&gt;{{&lt;/nowiki&gt;[[Template:1881|1881]]}} &lt;br&gt; [[Template talk:1881|Talk]]
+|
+{{1881}}
+|Bottom of Page
+|-
+| &lt;nowiki&gt;{{&lt;/nowiki&gt;[[Template:Oscookbook|Oscookbook]]}} &lt;br&gt; [[Template talk:Oscookbook|Talk]]
+|
+{{Oscookbook}}
+|Bottom of Page
+|-
+| &lt;nowiki&gt;{{&lt;/nowiki&gt;[[Template:Decameron|Decameron]]}} &lt;br&gt; [[Template talk:Decameron|Talk]]
+|
+{{Decameron}}
+|Bottom of Page 
+|}
+
+More cookbook-related templates can be found in the [[Cookbook:Policy|Cookbook policy module]].
+
+
+ */ Categories and interlanguage links can be placed
+ here. To see the category scheme for recipes, go to:
+ [[:Category:Recipes]]. /*
+
+&lt;div style=&quot;border: 1px solid black; padding: 20px; background-color: #DDEEFF&quot;&gt;
+'''This is a template page. Please do not add recipes here.'''
+&lt;/div&gt;
+
+[[mk:Готвач:Шаблон за полиса/рецепт]]
+[[nl:Kookboek/Receptsjabloon]]
+[[ru:Образец рецепта]]</text>
+      <sha1>mnmes2c43tk11pop7ewki7b5zn52t6z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Atomic structure</title>
+    <ns>0</ns>
+    <id>47</id>
+    <revision>
+      <id>2547984</id>
+      <parentid>2547983</parentid>
+      <timestamp>2013-08-07T00:17:26Z</timestamp>
+      <contributor>
+        <username>LlamaAl</username>
+        <id>716551</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/203.104.11.7|203.104.11.7]] ([[User talk:203.104.11.7|talk]]) to last version by 41.220.69.108</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Foundational concepts of organic chemistry/History_of_organic_chemistry|&lt; History]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Electronegativity|Electronegativity &gt;]]
+----
+&lt;/noinclude&gt;
+
+
+{| align=&quot;right&quot;
+|-
+| [[Image:Simple atom (lithium).png]]
+|-
+| ''A simple model of a lithium atom.&lt;br&gt; Not to scale!''
+|}
+
+==Atomic Structure==
+
+Atoms are made up of a '''nucleus''' and '''electrons''' that orbit the nucleus. The nucleus consists of protons and neutrons. An atom in its natural, uncharged state has the same number of electrons as protons.
+
+===The nucleus===
+
+The nucleus is made up of  '''protons''', which are positively charged, and '''neutrons''', which have no charge.  Neutrons and protons have about the same mass, and together account for most of the mass of the atom.
+
+===Electrons===
+
+The electrons are negatively charged particles. The mass of an electron is about 2000 times smaller than that of a proton or neutron at 0.00055 amu. Electrons circle so fast that it cannot be determined where electrons are at any point in time. The image depicts the old Bohr model of the atom, in which the electrons inhabit discrete &quot;orbitals&quot; around the nucleus much like planets orbit the sun. This model is outdated. Current models of the atomic structure hold that electrons occupy fuzzy clouds around the nucleus of specific shapes, some spherical, some dumbbell shaped, some with even more complex shapes.
+
+==Shells and Orbitals==
+
+===Electron shells===
+Electrons orbit atoms in clouds of distinct shapes and sizes. The electron clouds are layered one inside the other into units called '''shells''', with the electrons occupying the simplest orbitals in the innermost shell having the lowest '''energy state''' and the electrons in the most complex orbitals in the outermost shell having the highest energy state. The higher the energy state, the more '''energy''' the electron has, just like a rock at the top of a hill has more potential energy than a rock at the bottom of a valley. The main reason why electrons exist in higher energy orbitals is because only two electrons can exist in any orbital. So electrons fill up orbitals, always taking the lowest energy orbitals available. An electron can also be pushed to a higher energy orbital, for example by a photon. Typically this is not a stable state and after a while the electron descends to lower energy states by emitting a photon spontaneously. These concepts will be important in understanding later concepts like optical activity of chiral compounds as well as many interesting phenomena outside the realm of organic chemistry (for example, how lasers work).
+
+===Electron orbitals===
+
+Each different shell is subdivided into one or more '''orbitals''', which also have different energy levels, although the energy difference between orbitals is less than the energy difference between shells.
+
+Longer wavelengths have less energy; the s orbital has the longest wavelength allowed for an electron orbiting a nucleus and this orbital is observed to have the lowest energy.
+
+Each orbital has a characteristic shape which shows where electrons most often exist.  The orbitals are named using letters of the alphabet.  In order of increasing energy the orbitals are: '''s''', '''p''', '''d''', and '''f''' orbitals.
+
+As one progresses up through the shells (represented by the principal quantum number '''n''') more types of orbitals become possible. The shells are designated by numbers. So the 2s orbital refers to the s orbital in the second shell.
+
+===S orbital===
+
+The '''s orbital''' is the orbital lowest in energy and is spherical in shape. Electrons in this orbital are in their fundamental frequency.  This orbital can hold a maximum of two electrons.
+
+[[Image:S-orbital.png]]
+
+===P orbital===
+
+The next lowest-energy orbital is the '''p orbital'''. Its shape is often described as like that of a dumbbell.  There are three p-orbitals each oriented along one of the 3-dimensional coordinates x, y or z.  Each of these three &quot;p&quot; orbitals can hold a maximum of two electrons.
+
+[[Image:P-orbital.png]]
+
+These three different p orbitals can be referred to as the p&lt;sub&gt;x&lt;/sub&gt;, p&lt;sub&gt;y&lt;/sub&gt;, and p&lt;sub&gt;z&lt;/sub&gt;.
+
+The '''s''' and '''p''' orbitals are important for understanding most of organic chemistry as these are the orbitals that are occupied in the type of atoms that are most common in organic compounds.
+
+===D and F orbitals===
+----
+There are also D and F orbitals. D orbitals are present in transition metals. Sulphur and phosphorus have empty D orbitals. Compounds involving atoms with D orbitals do come into play, but are rarely part of an organic molecule. F are present in the elements of the lanthanide and actinide series. Lanthanides and actinides are mostly irrelevant to organic chemistry.
+
+==Filling electron shells==
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:Electron configuration|Electron configuration]]
+&lt;/small&gt;&lt;/div&gt;
+
+When an atom or ion receives electrons into its orbitals, the orbitals and shells fill up in a particular manner.
+
+There are three principles that govern this process:
+#'''the Pauli exclusion principle''',
+#'''the Aufbau (build-up) principle''', and
+#'''Hund's rule'''.
+
+=== Pauli exclusion principle ===
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' [[w:Pauli exclusion principle|Pauli]]&lt;br&gt; [[w:Pauli exclusion principle|exclusion principle]]
+&lt;/small&gt;&lt;/div&gt;
+
+No two electrons in an atom can have all four quantum numbers the same.  What this translates to in terms of our pictures of orbitals is that each orbital can only hold two electrons, one &quot;spin up&quot; and one &quot;spin down&quot;.
+
+=== Hund's rule ===
+
+This states that filled and half-filled shells tend to have additional stability.  In some instances, then, for example, the 4s orbitals will be filled before the 3d orbitals.
+
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:Hund's rule of Maximum Multiplicity|Hund's rule]]
+&lt;/small&gt;&lt;/div&gt;
+
+This rule is applicable only for those elements that have d electrons, and so is less important in organic chemistry (though it is important in organometallic chemistry).
+
+==Octet rule==
+
+The '''octet rule''' states that atoms tend to prefer to have eight electrons in their valence shell, so will tend to ''combine'' in such a way that each atom can have eight electrons in its valence shell, similar to the electronic configuration of a noble gas. In simple terms, molecules are more stable when the outer shells of their constituent atoms are empty, full, or have eight electrons in the outer shell.
+
+
+
+The main exception to the rule is helium, which is at lowest energy when it has two electrons in its valence shell.
+
+Other notable exceptions are aluminum and boron, which can function well with six valence electrons; and some atoms beyond group three on the periodic table that can have over eight electrons, such as sulfur. Additionally, some noble gasses can form compounds when expanding their valence shell.
+
+==Hybridization==
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:Orbital hybridisation|Orbital hybridization]]
+&lt;/small&gt;&lt;/div&gt;
+
+'''Hybridization''' refers to the combining of the orbitals of two or more covalently bonded atoms. Depending on how many free electrons a given atom has and how many bonds it is forming, the electrons in the s and the p orbitals will combine in certain manners to form the bonds.
+
+It is easy to determine the hybridization of an atom given a Lewis structure. First, you count the number of pairs of free electrons and the number of ''sigma'' bonds (single bonds). Do not count double bonds, since they do not affect the hybridization of the atom. Once the total of these two is determined, the hybridization pattern is as follows:
+
+ Sigma Bonds + Electron Pairs     Hybridization
+               2                       sp
+               3                       sp&lt;sup&gt;2&lt;/sup&gt;
+               4                       sp&lt;sup&gt;3&lt;/sup&gt;
+
+The pattern here is the same as that for the electron orbitals, which serves as a memory guide.
+
+
+&lt;noinclude&gt;
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/History of organic chemistry|&lt; History]] | Atomic Structure | [[Organic Chemistry/Foundational concepts of organic chemistry/Electronegativity|Electronegativity &gt;]] | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>83j05if5y47gga2p9xr4wxgdi84ocbh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Programming:c</title>
+    <ns>0</ns>
+    <id>48</id>
+    <redirect title="C Programming" />
+    <revision>
+      <id>510411</id>
+      <parentid>152243</parentid>
+      <timestamp>2006-07-02T22:17:03Z</timestamp>
+      <contributor>
+        <username>Jguk</username>
+        <id>18491</id>
+      </contributor>
+      <minor />
+      <comment>Redirecting to [[C Programming]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[C Programming]]</text>
+      <sha1>os5eah4k79fvk3ghr98c61wi4ae82ib</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Mrquick</title>
+    <ns>2</ns>
+    <id>50</id>
+    <revision>
+      <id>152245</id>
+      <timestamp>2003-07-14T07:28:28Z</timestamp>
+      <contributor>
+        <username>Mrquick</username>
+        <id>16</id>
+      </contributor>
+      <minor />
+      <comment>Now, I have my own page.  What fun.  Yeah, its late, I'm board.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">I'm working on the programming textbook.  I'm in college.  I'll most likely be a programmer when I get out.  Yep.  And I have lots of experience messing with programming.  Yep.  Tis good.</text>
+      <sha1>g2l8cz58htdqfwilpdovhze9gg3kvgb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Bonding</title>
+    <ns>0</ns>
+    <id>53</id>
+    <revision>
+      <id>1748943</id>
+      <parentid>1748942</parentid>
+      <timestamp>2010-04-01T19:52:49Z</timestamp>
+      <contributor>
+        <username>Adrignola</username>
+        <id>169232</id>
+      </contributor>
+      <minor />
+      <comment>Restoring current version</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Foundational concepts of organic chemistry/Electronegativity|&lt; Electronegativity]] | [[Organic_Chemistry/Foundational_concepts_of_organic_chemistry/Electron_dot_structures|Electron dot structure &gt;]]
+----
+&lt;/noinclude&gt;
+
+== Ionic Bonding ==
+[[Image:Sodium_chloride_crystal.png|thumb|right|The Sodium Chloride Crystal Structure.  Each atom has six nearest neighbors, with octahedral geometry.  This arrangement is known as ''cubic close packed'' (ccp).  &lt;br&gt;
+Light blue = Na&lt;sup&gt;+&lt;/sup&gt;&lt;br&gt;
+Dark green = Cl&lt;sup&gt;-&lt;/sup&gt;]]
+
+'''Ionic bonding''' is when positively and negatively charged '''ions''' stick to each other through electrostatic force. These bonds are '' slightly weaker than [[#Covalent Bonding|covalent bonds]]'' and stronger than Van der Waals bonding or hydrogen bonding.
+
+In ionic bonds the [[Organic Chemistry/Foundational concepts of organic chemistry/Electronegativity|electronegativity]] of the negative ion is so much stronger than the electronegativity of the positive ion that the two ions do not share electrons. Rather, the more electronegative ion assumes full ownership of the electron(s).
+
+Sodium chloride forms crystals with cubic symmetry. In these, the larger chloride ions are arranged in a cubic close-packing, while the smaller sodium ions fill the octahedral gaps between them.  Each ion is surrounded by six of the other kind.  This same basic structure is found in many other minerals, and is known as the halite structure.
+
+Perhaps the most common example of an ionically bonded substance is NaCl, or table salt. In this, the [[w:sodium|sodium (Na)]] atom gives up an electron to the much more electronegative [[w:chlorine|chlorine (Cl)]] atom, and the two atoms become ions, Na&lt;sup&gt;+&lt;/sup&gt; and Cl&lt;sup&gt;-&lt;/sup&gt;.The electrostatic bonding force between the two oppositely charged ions extends outside the local area attracting other ions to form giant crystal structures. For this reason most ionically bonded materials are solid at room temperature.
+
+== Covalent Bonding ==
+'''Covalent bonding''' is close to the heart of organic chemistry. This is where two atoms '''share electrons''' in a bond. The goal of each atom is to ''fill its octet'' as well as have a ''formal charge of zero''. To do this, atomic nuclei share electrons in the space between them. This sharing also allows the atoms to reach a '''lower energy state''', which '''stabilizes''' the molecule. Most reactions in chemistry are due to molecules achieving a lower energy state. Covalent bonds are most frequently seen between atoms with similar electronegativity.  In molecules that only have one type of atom, e.g. H&lt;sub&gt;2&lt;/sub&gt; or O&lt;sub&gt;2&lt;/sub&gt; , the electronegativity of the atoms is necessarily identical, so they cannot form ionic bonds. They always form covalent bonds.
+
+Carbon is especially good at covalent bonding because its electronegativity is intermediate relative to other atoms. That means it can give as well as take electrons as needs warrant.
+
+Covalently bonded compounds have strong internal bonds but weak attractive forces between molecules. Because of these weak attractive forces, the melting and boiling points of these compounds are much lower than compounds with [[Organic Chemistry/Foundational concepts of organic chemistry/Ionic bonding|ionic bond]]s. Therefore, such compounds are much more likely to be liquids or gases at room temperature than ionically bonded compounds.
+
+In molecules formed from two atoms of the same element, there is no difference in the electronegativity of the bonded atoms, so the electrons in the covalent bond are shared equally, resulting in a completely '''non-polar covalent''' bond.  In covalent bonds where the bonded atoms are different elements, there is a difference in electronegativities between the two atoms.  The atom that is more electronegative will attract the bonding electrons more toward itself than the less electronegative atom.  The difference in charge on the two atoms because of the electrons causes the covalent bond to be polar.  Greater differences in electronegativity result in more polar bonds.  Depending on the difference in electronegativities, the [[polarity]] of a bond can range from non-polar covalent to ionic with varying degrees of '''polar covalent''' in between.  An overall imbalance in charge from one side of a molecule to the other side is called a '''dipole moment'''.  Such molecules are said to be '''polar'''. For a completely symmetrical covalently bonded molecule, the overall dipole moment of the molecule is zero.  Molecules with larger dipole moments are more polar.  The most common polar molecule is water.
+
+==Bond Polarity and Dipole Moment==
+
+[[Image:Ch4-structure.png|thumb|right|Methane]]
+
+The ideas of bond polarity and dipole moment play important roles in organic chemistry.
+
+If you look at the image of methane on the right, the single most important aspect of it in terms of bond polarity is that it is a symmetric molecule. It has 4 hydrogens, all bonded at 109.5° from the other, and all with precisely the same bond angle. Each carbon-hydrogen bond is slightly polar (hydrogen has an electronegativity of 2.1, carbon 2.5), but because of this symmetry, the polarities cancel each other out and overall, methane is a non-polar molecule.
+
+The distinction is between '''Bond Polarity''' and '''Molecular polarity'''. The total polarity of a molecule is measured as '''Dipole Moment'''. The actual calculation of dipole moment isn't really necessary so much as an understanding of what it means. Frequently, a guesstimate of dipole moment is pretty easy once you understand the concept and until you get into the more advanced organic chemistry, exact values are of little value.
+
+Basically, the molecular polarity is, essentially, the summation of the vectors of all of the bond polarities in a molecule.
+
+== Van der Waals Bonding ==
+Van der Waals bonding is the collective name for three types of interactions:
+
+#'''Permanent Dipole interactions:''' these are the electrostatic attractive forces between two dipoles, these are responsible for fluromethane's (CH3F) high boiling point (about -15 deg C) compared to Nitrogen (about -180 deg C).
+#'''Permanent dipole / induced dipole:''' these are the interactions between a permanent dipole and another molecule, causing the latter molecule's electron cloud to be distorted and thus have an induced dipole itself.  These are much weaker than the permanent dipole / dipole interactions.  These forces occur in permanent dipole-molecules, and in mixtures of permanent dipole and dipole free molecules.
+#'''Instantaneous dipole / induced dipole:''' At any specific moment the electron cloud is not necesarily symetrical, this instantaneous dipole then induces a dipole in another molecule and they are attracted, this is the weakest of all molecular interactions.
+
+A Dipole is caused by an atom or molecule fragment having a higher electronegativity (this is a measure of its effective nuclear charge, and thus the attraction of the nucleus by electrons) than one to which it is attached.  This means that it pulls electrons closer to it, and has a higher share of the electrons in the bond.  Dipoles can cancel out by symmetry, eg: Carbon dioxide (O=C=O) is linear so there is no dipole, but the charge distribution is asymmetric causing a quadripole moment (this acts similarly to a dipole, but is much weaker).
+
+== Organometallic Compounds and Bonding ==
+Organometallic chemistry combines aspects of inorganic chemistry and organic chemistry, because organometallic compounds are  chemical compounds containing bonds between carbon and a metal or metalloid element.  Organometallic bonds are different from other bonds in that they are not either truly covalent or truly ionic, but each type of metal has individual bond character.  Cuprate (copper) compounds, for example, behave quite differently than Grignard reagents (magnesium), and so beginning organic chemists should concentrate on how to use the most basic compounds mechanistically, while leaving the explanation of exactly what occurs at the molecular level until later and more in-depth studies in the subject.
+
+Basic organometallic interactions are discussed fully in a later chapter.
+
+&lt;noinclude&gt;
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Electronegativity|&lt; Electronegativity]] | Bonding | [[Organic Chemistry/Foundational concepts of organic chemistry/Electron dot structures|Electron dot structures &gt;]] | [[Organic Chemistry/Alkanes|Alkanes  &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>6kojjn6mkdjgswtrmplhinxl5k5m6as</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Resonance</title>
+    <ns>0</ns>
+    <id>54</id>
+    <revision>
+      <id>1740734</id>
+      <parentid>1543582</parentid>
+      <timestamp>2010-03-21T05:45:17Z</timestamp>
+      <contributor>
+        <ip>69.90.50.97</ip>
+      </contributor>
+      <comment>/* Resonance */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Foundational concepts of organic chemistry/Electron dot structures|&lt;&lt; Electron dot structures]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases|Acids and bases &gt;&gt;]]
+----
+&lt;/noinclude&gt;
+
+==Resonance ==
+
+'''Resonance''' refers to structures that are not easily represented by a single electron dot structure but that are intermediates between two or more drawn structures.
+
+Resonance is easily misunderstood in part because of the way certain chemistry textbooks attempt to explain the concept.  In science, analogies can provide an aid to understanding, but analogies should not be taken too literally.  It is sometimes best to use analogies to introduce a topic, but then explain the differences and inevitable complications as further details on a complicated subject.  This is the case for resonance.
+
+&lt;/blockquote&gt;
+
+Just as entropic principles cannot be applied to individual molecules, it is impossible to say whether or not any given individual molecule with a resonance structure is literally in one configuration or another.  The actual situation on the molecular scale is that each configuration of the molecule contributes a percentage to the possible configurations, resulting in a &quot;blend&quot; of the possible structures.  Changes in molecular shape occur so rapidly, and on such a tiny scale, that the '''actual physical locations of individual electrons cannot be precisely known''' (due to Heisenberg's Uncertainty Principle).  The result of all that complexity is simply this: molecules with resonance structures are treated as mixtures of their multiple forms, with a greater percentage of probability given to the most stable configurations.
+
+The '''nuclei of the atoms are not moving''' when they are represented by resonance structure drawings.  Rather, the electrons are portrayed as if they were moving instead.  The true situation is that no one can say for certain exactly where any individual electron is at any specific moment, but rather electron location can be expressed as a probability only.  What a dot structure is actually showing is where electrons almost certainly are located, therefore resonance structures indicate a split in those same probabilities.  Chemists are absolutely certain where electrons are located when one carbon bonds four hydrogens (methane), but it is less certain where precisely any given electron is located when six carbons bond six hydrogens in a ring structrue (benzene).  Resonance is an expression of this uncertainty, and is therefore the average of probable locations.
+
+Resonance structures are '''stabilizing''' in molecules because they allow electrons to lengthen their wavelengths and thereby '''lower their energy'''.  This is the reason that benzene (C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;) has a lower heat of formation than organic chemists would predict, not accounting for resonance.  Other aromatic molecules have a similar stability, which leads to an overall entropic preference for aromaticity (a subject that will be covered fully in a later chapter).  Resonance stability plays a major role in organic chemistry due to resonant molecules' lower energy of formation, so students of organic chemistry should understand this effect and practice spotting molecules stabilized by resonant forms.
+
+&lt;blockquote&gt;
+[[image:Resonance_example2.PNG|Carbonate]]
+&lt;br&gt;
+In the Lewis structures above, carbonate (CO&lt;sub&gt;3&lt;/sub&gt;) has a resonance structure. Using laboratory procedures to measure the bond length of each bond, we do not find that one bond is shorter than the two others (remember, double bonds are shorter than single bonds), but instead that all bonds are of the same length somewhere between the length of typical double and single bonds.
+&lt;/blockquote&gt;
+
+== Resonance Structures ==
+[[Image:Benz3.png|200px|frame|right|Scheme 1. Resonance structures of Benzene]]
+&lt;!--More diagrams welcome--&gt;
+'''Resonance structures''' are diagrammatic tools used predominately in [[w:organic chemistry|organic chemistry]] to symbolize '''resonant bonds''' between [[w:atom|atom]]s in [[w:molecule|molecule]]s. The electron density of these bonds is spread over the molecule, also known as the [[w:delocalization|delocalization]] of [[w:electron|electron]]s.  Resonance contributors for the same molecule all have the same [[w:chemical formula|chemical formula]] and same sigma framework, but the pi electrons will be distributed differently among the atoms.  Because [[w:Lewis dot diagram|Lewis dot diagram]]s often cannot represent the true electronic structure of a molecule, resonance structures are often employed to approximate the true electronic structure. Resonance structures of the same molecule are connected with a double-headed arrow. While organic chemists use resonance structures frequently, they are also used in inorganic structures, with [[w:nitrate|nitrate]] as an example.
+
+== Key characteristics ==
+The key elements of resonance are:
+*Resonance occurs because of the overlap of [[w:atomic orbital|orbital]]s.  Double bonds are made up of [[w:pi bond|pi bonds]], formed from the overlap of 2p [[w:atomic orbital|orbital]]s. The electrons in these pi orbitals will be spread over more than two atoms, and hence are delocalized.
+*Both paired and unshared electrons may be delocalized, but all the electrons must be conjugated in a pi system.
+*If the orbitals do not overlap (such as in [[w:orthogonal|orthogonal]] orbitals) the structures are not true resonance structures and do not mix.
+*Molecules or species with resonance structures are generally considered to be more stable than those without them.  The delocalization of the electrons lowers the orbital energies, imparting this stability.  The resonance in benzene gives rise to the property of [[w:aromaticity|aromaticity]]. The gain in stability is called the '''resonance energy'''.
+*All resonance structures for the same molecule must have the same sigma framework ([[w:Sigma bond|sigma bond]]s form from the &quot;head on&quot; overlap of hybridized orbitals).  Furthermore, they must be correct [[w:Lewis structure|Lewis structure]]s with the same number of electrons (and consequent [[w:Electric charge|charge]]) as well as the same number of unpaired electrons.  Resonance structures with arbitrary separation of charge are unimportant, as are those with fewer covalent bonds. These unimportant resonance structures only contribute minimally (or not at all) to the overall bonding description; however, they are important in some cases such as for a [[w:Carbonyl|carbonyl]] group.
+* The '''hybrid structure''' is defined as the superposition of the resonance structures.  A benzene ring is often shown with a circle inside a hexagon (in American texts) rather than alternating double bonds &amp;mdash; the latter example misrepresents the electronic structure. Bonds with broken [[w:Bond order|bond order]]s are often displayed as double bonds with one solid and one dashed line.
+
+== What resonance is not ==
+Significantly, resonance structures do not represent different, isolatable structures or compounds.  In the case of benzene, for example, there are two important resonance structures - which can be thought of as cyclohexa-1,3,5-trienes.  There are other resonance forms possible, but because they are higher in energy than the triene structures (due to charge separation or other effects) they are less important and contribute less to the &quot;real&quot; electronic structure (average hybrid).  However, this does not mean there are two different, interconvertable forms of benzene; rather, the true electronic structure of benzene is an average of the two structures.  The six carbon-carbon bond lengths are identical when measured, which would be invalid for the cyclic triene.
+Resonance should also not be confused with a [[w:Chemical equilibrium|chemical equilibrium]] or [[w:Tautomerism|tautomerism]] which are equilibria between  compounds that have different sigma bonding patterns. [[w:Hyperconjugation|Hyperconjugation]] is a special case of resonance.
+
+== History ==
+The concept of resonance was introduced by [[w:Linus Pauling|Linus Pauling]] in 1928. He was inspired by the [[w:Quantum mechanics|quantum mechanical]] treatment of the H&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt; ion in which an electron is located between two hydrogen nuclei. The alternative term '''mesomerism''' popular in German and French publications with the same meaning was introduced by [[w:Christopher Ingold|Christopher Ingold]] in 1938 but did not catch on in the English literature. The current concept of [[w:Mesomeric effect|Mesomeric effect]] has taken on a related but different meaning. The double headed arrow was introduced by the German chemist Arndt (also responsible for the [[w:Arndt-Eistert synthesis|Arndt-Eistert synthesis]]) who preferred the German phrase ''zwischenstufe'' or ''intermediate phase''.
+
+Due to confusion with the physical meaning of the word ''[[w:Resonance|resonance]]'', as no elements do actually appear to be resonating, it is suggested to abandon the term ''resonance'' in favor of ''delocalization''  {{Ref|Kerber}}. Resonance energy would become delocalization energy and a ''resonance structure'' becomes '''contributing structure'''. The double headed arrows would get replaced by commas.
+
+== Examples ==
+[[Image:Resonance examples.png|thumb|center|400px|Scheme 2. Examples of resonance ozone, benzene and the allyl cation]]
+
+The [[w:ozone|ozone]] molecule is represented by two resonance structures in the top of ''scheme 2''. In reality the two terminal oxygen atoms are equivalent and the hybrid structure is drawn on the right with a charge of -1/2 on both oxygen atoms and partial double bonds.
+The concept of benzene as a hybrid of two conventional structures (middle ''scheme 2'') was a major breakthrough in chemistry made by [[w:Kekule|Kekule]], and the two forms of the ring which together represent the total resonance of the system are called ''Kekule structures''. In the hybrid structure on the right the circle replaces three double bonds.
+The [[w:allyl|allyl]] [[w:cation|cation]] (bottom ''scheme 2'') has two resonance forms and in the hybrid structure the positive charge is delocalized over the terminal methylene groups.
+
+==See also==
+* [[w:Delocalization|Delocalization]]
+
+== References ==
+# {{Note|Kerber}} ''If It's Resonance, What Is Resonating?''  Kerber, Robert C. . J. Chem. Educ. '''2006''' 83 223. [http://www.jce.divched.org/Journal/Issues/2006/Feb/abs223.html Abstract]
+# (Much of this text originally from http://en.wikipedia.org/w/index.php?title=Resonance_%28chemistry%29&amp;oldid=41962377
+
+&lt;noinclude&gt;
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Electron dot structures|&lt;&lt; Electron dot structures]] | Resonance | [[Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases|Acids and bases &gt;&gt;]] | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>ttp8ivmvmv8n5wqvq6zvkws1c7zke5x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Acids and bases</title>
+    <ns>0</ns>
+    <id>55</id>
+    <revision>
+      <id>2372178</id>
+      <parentid>1110340</parentid>
+      <timestamp>2012-07-02T20:53:36Z</timestamp>
+      <contributor>
+        <username>Vchorozopoulos</username>
+        <id>364440</id>
+      </contributor>
+      <minor />
+      <comment>/* Brønsted-Lowry Acids and Bases: Proton donors and acceptors */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Foundational concepts of organic chemistry/Resonance|&lt;&lt; Resonance]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Nomenclature|Nomenclature &gt;&gt;]]
+----
+&lt;/noinclude&gt;
+
+==Arrhenius Definition: Hydroxide and Hydronium Ions==
+
+The first and earliest definition of acids and bases was proposed in the 1800's by Swedish scientist Svante Arrhenius, who said that an '''acid''' was anything that dissolved in water to yield '''H&lt;sup&gt;+&lt;/sup&gt; ions''' (like stomach acid HCl, hydrochloric acid), and a '''base''' was anything that dissolved in water to give up '''OH&lt;sup&gt;-&lt;/sup&gt; ions''' (like soda lye NaOH, sodium hydroxide).  Acids and bases were already widely used in various occupations and activities of the time, so Arrhenius' definition merely attempted to explained well-known and long-observed phenomenon.
+
+Although simple, at the time this definition of the two types of substances was significant.  It allowed chemists to explain certain reactions as ion chemistry, and it also expanded the ability of scientists of the time to predict certain chemical reactions.  The definition left a great deal wanting, however, in that many types of reactions that did not involve hydroxide or hydronium ions directly remained unexplained.
+
+Many general chemistry classes (especially in the lower grades or introductory levels) still use this simple definition of acids and bases today, but modern organic chemists make further distinctions between acids and bases than the distinctions provided under Arrhenius's definition.
+
+==Brønsted-Lowry Acids and Bases: Proton donors and acceptors==
+
+A new definition for acids and bases, building upon the one already proposed by Arrhenius, was brought forth independently by Johannes Nicolaus Brønsted and Thomas Martin Lowry in 1923.  The new definition did not depend on a substance's dissolution in water for definition, but instead suggested that a substance was acidic if it readily donated a proton (H&lt;sup&gt;+&lt;/sup&gt;) to a reaction and a substance was basic if it accepted a proton in a reaction.
+
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+&lt;H2&gt;Definiton of Brønsted-Lowry Acid and Base&lt;/H2&gt;
+
+An '''acid''' is any '''proton donor''' and a '''base''' is any '''proton acceptor'''.
+|}
+
+The major advantage of the updated definition was that it was not limited to aqueous solution.  This definition of acids and bases allowed chemists to explain a great number of reactions that took place in protic or aprotic solvents that were not water, and it also allowed for gaseous and solid phase reactions (although those reactions are more rare).
+
+For example, the hypothetical acid HA will disassociate into H&lt;sup&gt;+&lt;/sup&gt; and A&lt;sup&gt;-&lt;/sup&gt;:
+
+&lt;p align=&quot;center&quot;&gt;&lt;math&gt;HA \overrightarrow\longleftarrow H^+ + A^-&lt;/math&gt;&lt;/p&gt;
+
+
+The Brønsted-Lowry definiton of acids and bases is one of two definitions still in common use by modern chemists.
+
+==Lewis Acids and Bases: Electron donors and acceptors==
+
+The second definition in widespread use deals not with a molecule's propensity for accepting or donating protons but rather with accepting or donating electrons, thereby demonstrating a slightly different emphasis and further broadening the explanatory and predictive powers of acid-base chemistry.
+
+{| WIDTH=&quot;75%&quot;
+|-
+| style=&quot;background-color: #FFF7F7; border: solid 1px #FFBDBD; padding: 1em;&quot; valign=&quot;top&quot; |
+
+&lt;H2&gt;Definition of Lewis Acids and Bases&lt;/H2&gt;
+
+A Lewis '''acid''' is an '''electron acceptor''' and a Lewis '''base''' is an '''electron donor'''.
+|}
+
+
+Probably the most important aspect of Lewis acids and bases is which types of atoms can donate electrons, and which types of atoms can receive them.  Essentially atoms with lone pairs, i.e. unshared pairs of electrons in an outer shell, have the capability of using those lone pairs to attract electron-deficient atoms or ions.  This is why ammonia can bond a fourth hydrogen ion to create the ammonium ion; its lone pair of electrons can attract and bond to a free H&lt;sup&gt;+&lt;/sup&gt; ion in solution and hold on to it.  For the same reason, methane cannot become methanium ion under ordinary circumstances, because the carbon in methane does not have any unshared pairs of electrons orbiting its nucleus.  Generally speaking, Lewis acid are in the nitrogen, oxygen or halogen groups of the periodic table.
+
+==Nucleophiles and Electrophiles==
+
+Whether or not an atom can donate or accept electrons it can be called a nucleophile or electrophile, respectively.  '''Electrophiles''' (literally, &quot;lovers of electrons&quot;) are attracted to electrons. Electrophiles therefore seek to pair with unshared electrons of other atoms. '''Nucleophiles''', or &quot;nucleus lovers&quot;, seek positively charged nuclei such as those available in acidic solutions as hydronium ions.  It is important to note that electrophiles and nucleophiles are often '''ions''', but sometimes they are not. 
+
+Understanding '''electrophiles''' and '''nucleophiles''' goes beyond simply ideas of acids and bases. They are, in a majority of cases, the major players in organic reactions. As we will, over and over again, find reactions that are the result of nucleophiles ''attacking'' electrophiles. Keep in mind that the idea of nucleophiles and electrophiles is very related to the ideas of acids and bases in the Lewis context.
+
+But it is also important to understand that, while they are related, they are not exactly the same thing either. An ion or molecule can be a strong nucleophile and a weak base (e.g. N&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;-&lt;/sup&gt;, RS&lt;sup&gt;-&lt;/sup&gt;, I&lt;sup&gt;-&lt;/sup&gt;, Br&lt;sup&gt;-&lt;/sup&gt; and CN&lt;sup&gt;-&lt;/sup&gt;). Another ion can be a poor nucleophile and a strong base ((CH&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;CO&lt;sup&gt;-&lt;/sup&gt;, R&lt;sub&gt;2&lt;/sub&gt;N&lt;sup&gt;-&lt;/sup&gt;). And yet others are strong nucleophiles and strong bases (R&lt;sub&gt;3&lt;/sub&gt;C&lt;sup&gt;-&lt;/sup&gt;, RO&lt;sup&gt;-&lt;/sup&gt;, HO&lt;sup&gt;-&lt;/sup&gt;) and poor nucleophiles and poor bases (RCO&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;-&lt;/sup&gt;, ROH, NH&lt;sub&gt;3&lt;/sub&gt;).
+
+This will all be discussed in greater detail as the topics of specific reactions and reaction mechanisms are covered. In the meantime, try to bear in mind that nucleophiles are basic and electrophiles are acidic.
+
+==pK&lt;sub&gt;a&lt;/sub&gt; and Acidity ==
+
+The acid dissociation constant of a substance is commonly called its pK&lt;sub&gt;a&lt;/sub&gt;, and it is a measure of the negative log of the K value of an acid dissociation reaction.  (The K value refers to the equilibrium calculations you learned how to perform in general chemistry -- if you have forgotten your K's and Q's, now would be a good time to [http://en.wikipedia.org/wiki/PKa refresh your memory] on the topic.)
+
+:&lt;math&gt;pK_a = -\log(K_a)&lt;/math&gt;
+
+The lower the pK&lt;sub&gt;a&lt;/sub&gt; value is, the more acidic (and consequently, less basic) a substance is.  There is also a pK&lt;sub&gt;b&lt;/sub&gt; value for all relevant substances, but it is common in organic chemistry to use pK&lt;sub&gt;a&lt;/sub&gt; exclusively, even when discussing bases.  This is because extremely high pK&lt;sub&gt;a&lt;/sub&gt; values correlate exactly to extremely low pK&lt;sub&gt;b&lt;/sub&gt; values, so there is no need to use both kinds of measurements.  Any pK&lt;sub&gt;a&lt;/sub&gt; value higher than seven means that a substance is not acidic when placed in water, but '''it does not mean that substance cannot be an acid'''.  Alcohols are a good example of this: they can donate a hydrogen ion in chemical reactions but they do not do so readily, which makes them acidic but only very weakly so.  Many of the acids in organic chemistry are considerably weaker than acids used for inorganic chemistry, so discussion of acid-base chemistry in organic reactions may not necessarily relate well to your previous understanding of the topic.
+
+&lt;noinclude&gt;
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Resonance|&lt;&lt; Resonance]] | Acids and bases | [[Organic Chemistry/Foundational concepts of organic chemistry/Nomenclature|Nomenclature &gt;&gt;]] | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>c9kimhdmx1hi725cf3il80itwywf4jc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Foundational concepts of organic chemistry/Electron dot structures</title>
+    <ns>0</ns>
+    <id>56</id>
+    <revision>
+      <id>2464649</id>
+      <parentid>2462334</parentid>
+      <timestamp>2012-12-17T22:25:22Z</timestamp>
+      <contributor>
+        <username>Recent Runes</username>
+        <id>66908</id>
+      </contributor>
+      <minor />
+      <comment>[[WB:REVERT|Reverted]] edits by [[Special:Contributions/117.204.179.247|117.204.179.247]] ([[User talk:117.204.179.247|talk]]) to last version by Adrignola</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Foundational concepts of organic chemistry/Bonding|&lt;&lt; Bonding]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Resonance|Resonance &gt;&gt;]]
+----
+&lt;/noinclude&gt;
+
+== Electron Dot Structures ==
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:Lewis structures|Lewis structures]]
+&lt;/small&gt;&lt;/div&gt;
+'''Electron dot structures''', also called ''Lewis structures'', give a representation of the valence electrons surrounding an atom.
+
+Each valence electron is represented by one dot, thus, a lone atom of hydrogen would be drawn as an ''H'' with one dot, whereas a lone atom of Helium would be drawn as an ''He'' with two dots, and so forth.
+
+Representing two atoms joined by a covalent bond is done by drawing the atomic symbols near to each other, and drawing a single line to represent a shared pair of electrons.  It is important to note: a single valence electron is represented by a dot, whereas a pair of electrons is represented by a line.
+
+The covalent compound hydrogen fluoride, for example, would be represented by the symbol ''H'' joined to the symbol ''F'' by a single line, with three pairs (six more dots) surrounding the symbol ''F''.  The line represents the two electrons shared by both hydrogen and fluorine, whereas the six paired dots represent fluorine's remaining six valence electrons.
+
+Dot structures are useful in illustrating simple covalent molecules, but the limitations of dot structures become obvious when diagramming even relatively simple organic molecules.  The dot structures have no ability to represent the actual physical orientation of molecules, and they become overly cumbersome when more than three or four atoms are represented.
+
+Lewis dot structures are useful for introducing the idea of covalence and bonding in small molecules, but other model types have much more capability to communicate chemistry concepts.
+
+
+===Drawing electron dot structures===
+[[Image:Lewis_diatomic_hydrogen.gif|Lewis Dot Structure of Diatomic Hydrogen Molecule]]
+[[Image:Lewis_diatomic_helium.gif|Lewis Dot Structure of Diatomic Helium Molecule]]
+[[Image:Lewis_diatomic_fluorine.gif|Lewis Dot Structure of Diatomic Fluorine Molecule]]
+[[Image:Lewis_hydrogen_fluoride.gif|Lewis Dot Structure of an Hydrofluoric Acid Molecule]]&lt;br&gt;
+Some examples of electron dot structures for a few commonly encountered molecules from inorganic chemistry.
+
+
+==== A note about Gilbert N. Lewis ====
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:Gilbert N. Lewis|Gilbert N. Lewis]]yo
+&lt;/small&gt;&lt;/div&gt;
+Lewis was born in Weymouth, Massachusetts as the son of a Dartmouth-graduated lawyer/broker.  He attended the University of Nebraska at age 14, then three years later transferred to Harvard.  After showing an initial interest in Economics, Gilbert Newton Lewis earned first a B.A. in Chemistry, and then a Ph.D. in Chemistry in 1899.
+
+For a few years after obtaining his doctorate, Lewis worked and studied both in the United States and abroad (including Germany and the Philippines) and he was even a professor at M.I.T. from 1907 until 1911.  He then went on to U.C. Berkeley in order to be Dean of the College of Chemistry in 1912.
+
+In 1916 Dr. Lewis formulated the idea that a covalent bond consisted of a shared pair of electrons.  His ideas on chemical bonding were expanded upon by Irving Langmuir and became the inspiration for the studies on the nature of the chemical bond by Linus Pauling.
+
+In 1923, he formulated the electron-pair theory of acid-base reactions. In the so-called Lewis theory of acids and bases, a &quot;Lewis acid&quot; is an electron-pair acceptor and a &quot;Lewis base&quot; is an electron-pair donor.
+
+In 1926, he coined the term &quot;photon&quot; for the smallest unit of radiant energy.
+
+Lewis was also the first to produce a pure sample of deuterium oxide (heavy water) in 1933. By accelerating deuterons (deuterium nuclei) in Ernest O. Lawrence's cyclotron, he was able to study many of the properties of atomic nuclei.
+
+During his career he published on many other subjects, and he died at age 70 of a heart attack while working in his laboratory in Berkeley.  He had one daughter and two sons; both of his sons became chemistry professors themselves.
+
+== Formal Charge ==
+&lt;div class=&quot;noprint&quot; style=&quot;border:1px solid gold; background:cornsilk; padding: 4px; text-align: center; float: right;&quot;&gt;&lt;small&gt;
+''On WP:'' &lt;br&gt; [[w:Lewis_structure#Formal_Charge|Formal charge]]
+&lt;/small&gt;&lt;/div&gt;
+
+The '''formal charge''' of an atom is the charge that it would have if every bond were 100% covalent (non-polar). Formal charges are computed by using a set of rules and are useful for accounting for the electrons when writing a reaction mechanism, but they don't have any intrinsic physical meaning. They may also be used for qualitative comparisons between different resonance structures (see below) of the same molecule, and often have the same sign as the partial charge of the atom, but there are exceptions.
+
+The formal charge of an atom is computed as the difference between the number of valence electrons that a neutral atom would have and the number of electrons that &quot;belong&quot; to it in the Lewis structure when one counts lone pair electrons as belonging fully to the atom, while electrons in covalent bonds are split equally between the atoms involved in the bond. The total of the formal charges on an ion should be equal to the charge on the ion, and the total of the formal charges on a neutral molecule should be equal to zero.
+
+For example, in the hydronium ion, H&lt;sub&gt;3&lt;/sub&gt;O&lt;sup&gt;+&lt;/sup&gt;, the oxygen atom has 5 electrons for the purpose of computing the formal charge—2 from one lone pair, and 3 from the covalent bonds with the hydrogen atoms. The other 3 electrons in the covalent bonds are counted as belonging to the hydrogen atoms (one each). A neutral oxygen atom has 6 valence electrons (due to its position in group 16 of the periodic table); therefore the formal charge on the oxygen atom is 6 – 5 = +1. A neutral hydrogen atom has one electron. Since each of the hydrogen atoms in the hydronium atom has one electron from a covalent bond, the formal charge on the hydrogen atoms is zero. The sum of the formal charges is +1, which matches the total charge of the ion.
+
+: Formal Charge: number of valence electrons for an atom - (number of lone pair electrons + number electrons in bonds/2)
+: &lt;math&gt;FC = N_{valence} - \left( N_{lone pairs} + \frac{N_{electrons}}{2} \right)&lt;/math&gt;
+
+In chemistry, a formal charge (FC) on an atom in a molecule is defined as:
+
+: FC = number of valence electrons of the atom - ( number of lone pair electrons on this atom + total number of electrons participating in covalent bonds with this atom / 2).
+: &lt;math&gt;FC = N_{valence} - \left( N_{lone pairs} + \frac{N_{participating electrons}}{2} \right)&lt;/math&gt;
+
+When determining the correct Lewis structure (or predominant resonance structure) for a molecule, the structure is chosen such that the formal charge on each of the atoms is minimized.
+
+===Examples===
+; carbon in methane : &lt;math&gt;FC = 4 - \left( 0 + \frac{8}{2} \right) = 0&lt;/math&gt;
+; Nitrogen in &lt;math&gt;NO_2^{-}&lt;/math&gt; : &lt;math&gt;FC = 5 - \left( 2 + \frac{6}{2} \right) = 0&lt;/math&gt;
+; double bonded oxygen in &lt;math&gt;NO_2^{-}&lt;/math&gt; : &lt;math&gt;FC = 6 - \left( 4 + \frac{4}{2} \right) = 0&lt;/math&gt;
+; single bonded oxygen in &lt;math&gt;NO_2^{-}&lt;/math&gt; : &lt;math&gt;FC = 6 - \left( 6 + \frac{2}{2} \right) = -1&lt;/math&gt;
+
+{|
+|-
+|valign=&quot;top&quot;| [[Image:Methane-3D-balls.png|thumb|250px|Methane (&lt;math&gt;CH_4&lt;/math&gt;): black is carbon, white is hydrogen]]
+|valign=&quot;top&quot;| [[Image:Nitrogen-dioxide-3D-vdW.png|thumb|250px|Nitrogen dioxide (&lt;math&gt;NO_2&lt;/math&gt;): blue is nitrogen, red is oxygen]]
+|}
+
+&lt;noinclude&gt;
+----
+[[Organic Chemistry/Foundational concepts of organic chemistry|&lt;&lt; Foundational concepts]] | [[Organic Chemistry/Foundational concepts of organic chemistry/Bonding|&lt;&lt; Bonding]] | Electron dot structures | [[Organic Chemistry/Foundational concepts of organic chemistry/Resonance|Resonance &gt;&gt;]] | [[Organic Chemistry/Alkanes|Alkanes &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>1on4p7osh81rjyqqwzt37umlm98wnq8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Introduction to reactions/Overview of addition, elimination, substitution and rearrangement reactions</title>
+    <ns>0</ns>
+    <id>57</id>
+    <revision>
+      <id>961182</id>
+      <parentid>705456</parentid>
+      <timestamp>2007-09-07T18:34:50Z</timestamp>
+      <contributor>
+        <username>Whiteknight</username>
+        <id>10714</id>
+      </contributor>
+      <minor />
+      <comment>removing all sub-pages from [[Category:Chemistry]], reformatting book main pages to use {{Subject}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Cycloalkanes|&lt;&lt; Cycloalkanes]] | [[Organic Chemistry/Introduction to reactions/Polar and radical reactions|Next &gt;&gt;]]
+----
+&lt;/noinclude&gt;
+The real heart of organic chemistry is the reactions. Everything that you study is geared to prepare you for organic syntheses and other chemical transformations performed in the lab. This chapter gives you the basic tools to begin looking at these reactions.
+
+==Some basic reaction types==
+One way to organize organic reactions places them into a few basic categories:
+
+*'''addition reactions'''
+*'''elimination reactions'''
+*'''substitution reactions'''
+*'''rearrangement reactions'''
+
+Other categories include:
+*'''Oxidations '''
+*'''Reductions'''
+*'''Alkylations'''
+
+Sometimes one reaction can fall into more than one category. These classifications are just a tool and are not rigid.
+
+==Addition reaction==
+
+Something is added to something else to produce a third thing.
+
+:A + B → C
+
+''Note: the letters A, B and C here represent any atomic, ionic or molecular species which can undergo this type of reaction.''
+
+== Elimination reaction ==
+
+Something comes off of a molecule, resulting in two products.
+
+:A → B + C
+
+==Substitution reactions==
+
+This involves the exchange of one group for another.
+
+:AB + CD → AC + BD
+
+Common reaction types include
+*radical reactions and
+*nucleophilic substitutions
+**S&lt;sub&gt;N&lt;/sub&gt;1, Unimolecular nucleophilic substitution
+**S&lt;sub&gt;N&lt;/sub&gt;2, Bimolecular nucleophilic substitution
+
+==Rearrangement reactions==
+
+A molecule shifts or otherwise rearranges to form a different molecule.
+
+:A → B
+
+This typically happens when one molecule changes into an isomer of itself.
+&lt;noinclude&gt;
+----
+[[Organic Chemistry/Alkanes|&lt;&lt; Alkanes]] | [[Organic Chemistry/Cycloalkanes|&lt;&lt; Cycloalkanes]] | Overview of reactions | [[Organic Chemistry/Introduction to reactions/Polar and radical reactions|Polar and radical reactions &gt;&gt;]] | [[Organic Chemistry/Introduction to functional groups|Intro to functional groups &gt;&gt;]]
+&lt;/noinclude&gt;
+
+{{BookCat}}</text>
+      <sha1>s1cvmebdwygla9va3xi3cm4hoyzfnza</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Organic Chemistry/Introduction to reactions/Polar and radical reactions</title>
+    <ns>0</ns>
+    <id>58</id>
+    <revision>
+      <id>1020172</id>
+      <parentid>961177</parentid>
+      <timestamp>2007-11-04T17:19:43Z</timestamp>
+      <contributor>
+        <username>Shalom Yechiel</username>
+        <id>69275</id>
+      </contributor>
+      <comment>/* Polar reactions */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">&lt;noinclude&gt;
+[[Organic Chemistry/Introduction to reactions/Overview of addition, elimination, substitution and rearrangement reactions|&lt;&lt; Overview of reactions]] | [[Organic Chemistry/Introduction to reactions/Redox reactions|Redox reactions &gt;&gt;]] 
+----
+&lt;/noinclude&gt;
+===Homolytic vs heterolytic cleavage===
+Two bonded atoms can come apart from each other in one of two ways. Either 
+#each atom gets away with half of the shared electrons, or 
+#one of the atoms leaves with more of the shared electrons than the other. 
+
+In '''homolytic cleavage''', each atom leaves with one-half of the shared electrons (one electron for a single bond, or two for double bonds). 
+
+A—B --&gt; A* + B*
+
+&lt;small&gt; A* and B* represent uncharged radicals. The &quot;*&quot; represents an unbonded, unpaired valence electron.&lt;/small&gt;
+
+In '''heterolytic cleavage''', one atom leaves with all of the previously shared electrons and the other atom gets none of them. 
+
+A—B --&gt; A&lt;sup&gt;-&lt;/sup&gt; + B&lt;sup&gt;+&lt;/sup&gt;
+
+''same'' indicates that each atom leaves with the same number of electrons from the bond. ''different'', refers to the fact that the atoms each end up with a different number of electrons.
+
+==Polar reactions==
+'''Polar reactions''' occur when two bonded atoms come apart, one taking more of the shared electrons than the other. They involve '''heterolytic cleavage'''.  The result is two charged species&amp;mdash;one cation and one anion.
+
+==Radical reactions==
+'''Radical reactions''' don't deal with charged particles but with radicals. '''Radicals''' are uncharged atoms or molecules with an incomplete octet of valence electrons. 
+
+When a molecule comes apart by '''homolytic cleavage''' the result is two radicals. Although uncharged, radicals are usually very reactive because the unfilled octet is unstable and the radical can lower its energy by forming a bond in a way that allows it to fill its valence shell while avoiding any electrostatic charge..
+
+{{BookCat}}</text>
+      <sha1>l55y1r03kds8g7gy73jaitlg76vjuv5</sha1>
+    </revision>
+  </page>
+</mediawiki>
